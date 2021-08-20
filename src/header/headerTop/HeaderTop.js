@@ -1,20 +1,20 @@
 import React, { useState } from 'react'
 import './HeaderTop.css'
-import { Link, useHistory } from "react-router-dom";
+import { Link, useHistory } from 'react-router-dom'
 
 const HeaderTop = ({ handleIsOpenModal }) => {
-    const [searchInput, setSearchInput] = useState("Search for products")
-    const history = useHistory()
+  const [searchInput, setSearchInput] = useState('Search for products')
+  const history = useHistory()
 
-    const changeSearchInput = () => {
-        setSearchInput("")
-    }
+  const changeSearchInput = () => {
+    setSearchInput('')
+  }
 
-    const openHomePage = () => {
-        history.push("/")
-    }
+  const openHomePage = () => {
+    history.push('/')
+  }
 
-    return (
+  return (
         <div>
             <div className="header__top">
                 <div className="header__top__content">
@@ -37,7 +37,7 @@ const HeaderTop = ({ handleIsOpenModal }) => {
                 </div>
             </div>
         </div>
-    )
+  )
 }
 
 export default HeaderTop

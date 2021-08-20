@@ -7,6 +7,13 @@ import {
   Route
 } from 'react-router-dom'
 
+const list = [
+  { name: '1', sullpier: '1', price: 1, piece: 1 },
+  { name: '2', sullpier: '2', price: 2, piece: 1 },
+  { name: '3', sullpier: '3', price: 3, piece: 1 }
+
+]
+
 const App = () => {
   return (
     <Router>
@@ -16,7 +23,7 @@ const App = () => {
           <Home />
         </Route>
         <Route path="/basket">
-          <Basket />
+          <Basket list={list} />
         </Route>
       </Switch>
     </Router>
