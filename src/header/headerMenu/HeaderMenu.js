@@ -2,7 +2,7 @@ import React from 'react'
 import './HeaderMenu.css'
 
 const HeaderMenu = () => {
-    return (
+  return (
         <div className="header_menu">
             <div className="header_menu__content">
                 <div className="header_menu__content__item">Home Decor</div>
@@ -16,7 +16,7 @@ const HeaderMenu = () => {
                 <div className="header_menu__content__item">Events</div>
             </div>
         </div>
-    )
+  )
 }
 
 export default HeaderMenu

@@ -1,19 +1,17 @@
 import React, { useState } from 'react'
-import Login from './login/Login';
-import './Header.css';
-import HeaderMenu from './headerMenu/HeaderMenu';
-import HeaderTop from './headerTop/HeaderTop';
-
+import Login from './login/Login'
+import './Header.css'
+import HeaderMenu from './headerMenu/HeaderMenu'
+import HeaderTop from './headerTop/HeaderTop'
 
 const Header = () => {
+  const [isOpenModal, setIsOpenModal] = useState(false)
 
-    const [isOpenModal, setIsOpenModal] = useState(false)
+  const handleIsOpenModal = () => {
+    setIsOpenModal(!isOpenModal)
+  }
 
-    const handleIsOpenModal = () => {
-        setIsOpenModal(!isOpenModal);
-    };
-
-    return (
+  return (
         <div className="header">
             <div>
                 <HeaderTop
@@ -26,7 +24,7 @@ const Header = () => {
                 handleIsOpenModal={handleIsOpenModal}
             />
         </div >
-    )
+  )
 }
 
 export default Header

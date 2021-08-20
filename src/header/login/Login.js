@@ -1,21 +1,20 @@
 import React, { useState } from 'react'
 import './Login.css'
-import { Modal } from '@material-ui/core';
+import { Modal } from '@material-ui/core'
 
 const Login = ({ isOpenModal, handleIsOpenModal }) => {
+  const [loginInput, setLoginInput] = useState('Username / Email Address')
+  const [passwordInput, setPasswordInput] = useState('Password')
 
-    const [loginInput, setLoginInput] = useState("Username / Email Address")
-    const [passwordInput, setPasswordInput] = useState("Password")
+  const changeLoginInput = () => {
+    setLoginInput('')
+  }
 
-    const changeLoginInput = () => {
-        setLoginInput("")
-    }
+  const changePasswordInput = () => {
+    setPasswordInput('')
+  }
 
-    const changePasswordInput = () => {
-        setPasswordInput("")
-    }
-
-    return (
+  return (
         <Modal
             open={isOpenModal}
             onClose={handleIsOpenModal}
@@ -23,7 +22,7 @@ const Login = ({ isOpenModal, handleIsOpenModal }) => {
             aria-describedby="simple-modal-description"
         >
             <div className="login">
-                <div onClick={handleIsOpenModal} className="login__body__exit">×</div>
+                <div onClick={handleIsOpenModal} className="login__body__exit">[img] ×</div>
                 <div className="login__body">
                     <div className="login__body__logo">Smart marketplace</div>
                     <input
@@ -65,7 +64,7 @@ const Login = ({ isOpenModal, handleIsOpenModal }) => {
                 </div>
             </div >
         </Modal>
-    )
+  )
 }
 
 export default Login
