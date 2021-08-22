@@ -1,0 +1,1960 @@
+[
+    {
+      "OldPrice": 0,
+      "Price": 331,
+      "Weight": 49,
+      "ItemId": 4030604,
+      "CategoryIds": [
+        2971
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2971,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Лидерство, мотивация, тайм-менеджмент"
+      ],
+      "Params": {
+        "Автор": "Клейсон, Джорж Сэмюэль",
+        "Like": "1951",
+        "Dislike": "59",
+        "Bookmark": "4495"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=4030604",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/24/52/14/6.jpeg",
+      "Name": "Самый богатый человек в Вавилоне"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 741,
+      "Weight": 48,
+      "ItemId": 6902713,
+      "CategoryIds": [
+        165
+      ],
+      "CategoryPathsToRoot": [
+        [
+          165,
+          163,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Реклама. Копирайтинг"
+      ],
+      "Params": {
+        "Автор": "Ильяхов, Максим , Сарычева, Людмила ",
+        "Like": "2178",
+        "Dislike": "186",
+        "Bookmark": "11527"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6902713",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/55/80/49/8.jpg",
+      "Name": "Пиши, сокращай: Как создавать сильный текст"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 347,
+      "Weight": 47,
+      "ItemId": 656052,
+      "CategoryIds": [
+        168
+      ],
+      "CategoryPathsToRoot": [
+        [
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Бизнес. Предпринимательство. Торговля"
+      ],
+      "Params": {
+        "Автор": "Кийосаки, Роберт Т.",
+        "Like": "216",
+        "Dislike": "21",
+        "Bookmark": "1031"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=656052",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/46/88/0.png",
+      "Name": "Богатый папа, бедный папа для подростков"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1393,
+      "Weight": 46,
+      "ItemId": 6134693,
+      "CategoryIds": [
+        136
+      ],
+      "CategoryPathsToRoot": [
+        [
+          136,
+          131,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Финансы. Кредит. Инвестиции"
+      ],
+      "Params": {
+        "Автор": "Грэм, Бенджамин ",
+        "Like": "339",
+        "Dislike": "7",
+        "Bookmark": "2534"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6134693",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/32/74/21/1.jpg",
+      "Name": "Разумный инвестор: Полное руководство по стоимостному инвестированию"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 603,
+      "Weight": 45,
+      "ItemId": 7685098,
+      "CategoryIds": [
+        2977
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2977,
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Психология бизнеса"
+      ],
+      "Params": {
+        "Автор": "Кийосаки Р.",
+        "Like": "1862",
+        "Dislike": "184",
+        "Bookmark": "3720"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7685098",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/75/19/7.jpg",
+      "Name": "Богатый папа, бедный папа"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 701,
+      "Weight": 44,
+      "ItemId": 3208280,
+      "CategoryIds": [
+        132
+      ],
+      "CategoryPathsToRoot": [
+        [
+          132,
+          131,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Финансы"
+      ],
+      "Params": {
+        "Автор": "Бернстайн, Уильям Дж.",
+        "Like": "44",
+        "Dislike": "6",
+        "Bookmark": "447"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3208280",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/46/70/34.jpeg",
+      "Name": "Манифест инвестора: Готовимся к потрясениям, процветанию и всему остальному"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 496,
+      "Weight": 43,
+      "ItemId": 10255332,
+      "CategoryIds": [
+        173
+      ],
+      "CategoryPathsToRoot": [
+        [
+          173,
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Управление бизнесом"
+      ],
+      "Params": {
+        "Автор": "Шефер Б.",
+        "Like": "49",
+        "Dislike": "1",
+        "Bookmark": "266"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10255332",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/45/38/21.jpeg",
+      "Name": "Путь к финансовой свободе"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 291,
+      "Weight": 42,
+      "ItemId": 10318880,
+      "CategoryIds": [
+        160
+      ],
+      "CategoryPathsToRoot": [
+        [
+          160,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Управление проектами"
+      ],
+      "Params": {
+        "Автор": "Фитцпатрик Р.",
+        "Like": "12",
+        "Dislike": "3",
+        "Bookmark": "116"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10318880",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/74/87/87/0.jpeg",
+      "Name": "Спроси маму. Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут?"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1030,
+      "Weight": 41,
+      "ItemId": 6551878,
+      "CategoryIds": [
+        133
+      ],
+      "CategoryPathsToRoot": [
+        [
+          133,
+          131,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Управление личными финансами"
+      ],
+      "Params": {
+        "Автор": "Роббинс, Энтони ",
+        "Like": "60",
+        "Dislike": "3",
+        "Bookmark": "435"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6551878",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/46/88/3.png",
+      "Name": "Деньги. Мастер игры"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 490,
+      "Weight": 40,
+      "ItemId": 11580002,
+      "CategoryIds": [
+        161
+      ],
+      "CategoryPathsToRoot": [
+        [
+          161,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Управление персоналом"
+      ],
+      "Params": {
+        "Автор": "Батырев М.",
+        "Like": "4",
+        "Dislike": "0",
+        "Bookmark": "48"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=11580002",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/10/10/31/69.jpg",
+      "Name": "Сложные подчиненные. Практика российских руководителей"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 58,
+      "Weight": 39,
+      "ItemId": 10501187,
+      "CategoryIds": [
+        3011
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3011,
+          195,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Конституция и конституционный строй"
+      ],
+      "Params": {
+        "Like": "4",
+        "Dislike": "10",
+        "Bookmark": "13"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10501187",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/80/15/82/9.jpeg",
+      "Name": "Конституция РФ с изменениями, принятыми на Общероссийском голосовании 1 июля 2020 г. (+ сравнительная таблица изменений). Редакция 2021 г."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 142,
+      "Weight": 38,
+      "ItemId": 12988458,
+      "CategoryIds": [
+        2983
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2983,
+          191,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Трудовой кодекс"
+      ],
+      "Params": {
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "2"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12988458",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/57/25/59.jpeg",
+      "Name": "Трудовой кодекс Российской Федерации. Текст с последними изменениями и дополнениями на 20 мая 2021 года"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 551,
+      "Weight": 37,
+      "ItemId": 663536,
+      "CategoryIds": [
+        147
+      ],
+      "CategoryPathsToRoot": [
+        [
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Менеджмент и управление персоналом"
+      ],
+      "Params": {
+        "Автор": "Адизес, Ицхак Калдерон",
+        "Like": "138",
+        "Dislike": "4",
+        "Bookmark": "690"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=663536",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/38/00/60/4.jpeg",
+      "Name": "Идеальный руководитель: Почему им нельзя стать и что из этого следует"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 591,
+      "Weight": 36,
+      "ItemId": 2661255,
+      "CategoryIds": [
+        163
+      ],
+      "CategoryPathsToRoot": [
+        [
+          163,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Маркетинг, реклама, PR"
+      ],
+      "Params": {
+        "Автор": "Котлер, Филип ",
+        "Like": "235",
+        "Dislike": "7",
+        "Bookmark": "1194"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=2661255",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/34/76/14.jpeg",
+      "Name": "Маркетинг от А до Я. 80 концепций, которые должен знать каждый менеджер, 4-е изд. Котлер Ф."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1141,
+      "Weight": 35,
+      "ItemId": 12813319,
+      "CategoryIds": [
+        2974
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2974,
+          163,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Управление продажами"
+      ],
+      "Params": {
+        "Автор": "Барден Ф.",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "42"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12813319",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/02/89/87.jpeg",
+      "Name": "Взлом маркетинга. Наука о том, почему мы покупаем"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 431,
+      "Weight": 34,
+      "ItemId": 6512039,
+      "CategoryIds": [
+        136
+      ],
+      "CategoryPathsToRoot": [
+        [
+          136,
+          131,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Финансы. Кредит. Инвестиции"
+      ],
+      "Params": {
+        "Автор": "Малкиел Б.",
+        "Like": "40",
+        "Dislike": "2",
+        "Bookmark": "290"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6512039",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/32/73/52/0.jpg",
+      "Name": "Десять главных правил для начинающего инвестора"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 152,
+      "Weight": 33,
+      "ItemId": 10495176,
+      "CategoryIds": [
+        200
+      ],
+      "CategoryPathsToRoot": [
+        [
+          200,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Теория государства и права"
+      ],
+      "Params": {
+        "Автор": "Плевако Ф.Н.",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "37"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10495176",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/50/82/61.jpeg",
+      "Name": "Ф. Н. Плевако. Избранные речи"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 789,
+      "Weight": 32,
+      "ItemId": 10497882,
+      "CategoryIds": [
+        126
+      ],
+      "CategoryPathsToRoot": [
+        [
+          126,
+          115,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Мировая экономика и международные экономические отношения. ВЭД"
+      ],
+      "Params": {
+        "Автор": "Аджемоглу Д.",
+        "Like": "5",
+        "Dislike": "0",
+        "Bookmark": "84"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10497882",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/50/96/18.jpeg",
+      "Name": "Почему одни страны богатые, а другие бедные: происхождение власти, процветания и нищеты"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 608,
+      "Weight": 31,
+      "ItemId": 622986,
+      "CategoryIds": [
+        132
+      ],
+      "CategoryPathsToRoot": [
+        [
+          132,
+          131,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Финансы"
+      ],
+      "Params": {
+        "Автор": "Талеб, Нассим Николас",
+        "Like": "474",
+        "Dislike": "46",
+        "Bookmark": "2148"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=622986",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/58/08/61/9.jpeg",
+      "Name": "Черный лебедь. Под знаком непредсказуемости"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 641,
+      "Weight": 30,
+      "ItemId": 9285358,
+      "CategoryIds": [
+        166
+      ],
+      "CategoryPathsToRoot": [
+        [
+          166,
+          163,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "PR. Брендинг"
+      ],
+      "Params": {
+        "Автор": "Макки Р.",
+        "Like": "2",
+        "Dislike": "1",
+        "Bookmark": "66"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9285358",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/59/29/10/7.jpg",
+      "Name": "Сториномика: Маркетинг, основанный на историях, в пострекламном мире"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 549,
+      "Weight": 29,
+      "ItemId": 10499037,
+      "CategoryIds": [
+        2965
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2965,
+          115,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Марков А.В.",
+        "Like": "28",
+        "Dislike": "2",
+        "Bookmark": "217"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10499037",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/51/03/40.jpeg",
+      "Name": "Хулиномика 4.0: хулиганская экономика. Еще толще. Еще длиннее"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 992,
+      "Weight": 28,
+      "ItemId": 10034984,
+      "CategoryIds": [
+        135
+      ],
+      "CategoryPathsToRoot": [
+        [
+          135,
+          131,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Ценные бумаги. Биржевая торговля"
+      ],
+      "Params": {
+        "Автор": "Герчик А.",
+        "Like": "23",
+        "Dislike": "5",
+        "Bookmark": "190"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10034984",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/67/77/85/2.jpg",
+      "Name": "Курс активного трейдера: Покупай, продавай, зарабатывай"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 259,
+      "Weight": 27,
+      "ItemId": 389623,
+      "CategoryIds": [
+        168
+      ],
+      "CategoryPathsToRoot": [
+        [
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Бизнес. Предпринимательство. Торговля"
+      ],
+      "Params": {
+        "Автор": "Хилл Н.",
+        "Like": "995",
+        "Dislike": "74",
+        "Bookmark": "1833"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=389623",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/64/31/38/3.jpeg",
+      "Name": "Думай и Богатей!"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 165,
+      "Weight": 26,
+      "ItemId": 10935396,
+      "CategoryIds": [
+        139
+      ],
+      "CategoryPathsToRoot": [
+        [
+          139,
+          137,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Бухгалтерский учёт"
+      ],
+      "Params": {
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "3"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10935396",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/30/23.jpeg",
+      "Name": "Книга учета доходов и расходов организаций и индивидуальных предпринимателей, применяющих упрощенную систему налогообложения с изменениями на 2021 год"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 198,
+      "Weight": 25,
+      "ItemId": 9534625,
+      "CategoryIds": [
+        123
+      ],
+      "CategoryPathsToRoot": [
+        [
+          123,
+          115,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "История экономических учений"
+      ],
+      "Params": {
+        "Автор": "Маркс К.",
+        "Like": "112",
+        "Dislike": "21",
+        "Bookmark": "769"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9534625",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/62/21/77/7.jpeg",
+      "Name": "Капитал"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 792,
+      "Weight": 24,
+      "ItemId": 7336435,
+      "CategoryIds": [
+        148
+      ],
+      "CategoryPathsToRoot": [
+        [
+          148,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общий менеджмент"
+      ],
+      "Params": {
+        "Автор": "Лайкер Д.",
+        "Like": "38",
+        "Dislike": "2",
+        "Bookmark": "358"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7336435",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/39/32/02/3.jpg",
+      "Name": "Дао Toyota: 14 принципов менеджмента ведущей компании мира"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 508,
+      "Weight": 23,
+      "ItemId": 8744397,
+      "CategoryIds": [
+        150
+      ],
+      "CategoryPathsToRoot": [
+        [
+          150,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Стратегический менеджмент"
+      ],
+      "Params": {
+        "Автор": "Талеб Н.Н.",
+        "Like": "70",
+        "Dislike": "6",
+        "Bookmark": "639"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8744397",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/55/91/76/8.jpeg",
+      "Name": "Рискуя собственной шкурой. Скрытая асимметрия повседневной жизни"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 926,
+      "Weight": 22,
+      "ItemId": 7526726,
+      "CategoryIds": [
+        152
+      ],
+      "CategoryPathsToRoot": [
+        [
+          152,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Организационный и производственный менеджмент"
+      ],
+      "Params": {
+        "Автор": "Голдрат Э.М.",
+        "Like": "153",
+        "Dislike": "1",
+        "Bookmark": "730"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7526726",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/42/31/20/0.jpg",
+      "Name": "Цель: процесс непрерывного улучшения"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 215,
+      "Weight": 21,
+      "ItemId": 615012,
+      "CategoryIds": [
+        2977
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2977,
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Психология бизнеса"
+      ],
+      "Params": {
+        "Автор": "Хилл, Наполеон ",
+        "Like": "255",
+        "Dislike": "20",
+        "Bookmark": "577"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=615012",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/53/01/89/4.jpeg",
+      "Name": "Думай и богатей"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 991,
+      "Weight": 20,
+      "ItemId": 10411236,
+      "CategoryIds": [
+        154
+      ],
+      "CategoryPathsToRoot": [
+        [
+          154,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Инновационный менеджмент. Информационный менеджмент. Риск-менеджмент"
+      ],
+      "Params": {
+        "Автор": "Каган М.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "20"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10411236",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/48/40/29.jpeg",
+      "Name": "Вдохновленные. Все, что нужно знать продакт-менеджеру"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 591,
+      "Weight": 19,
+      "ItemId": 10661985,
+      "CategoryIds": [
+        2992
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2992,
+          192,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Криминалистика и криминология"
+      ],
+      "Params": {
+        "Автор": "Сулим С.",
+        "Like": "20",
+        "Dislike": "0",
+        "Bookmark": "120"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10661985",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/80/21/06/1.jpeg",
+      "Name": "Безлюдное место. Как ловят маньяков в России"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 479,
+      "Weight": 18,
+      "ItemId": 7874751,
+      "CategoryIds": [
+        173
+      ],
+      "CategoryPathsToRoot": [
+        [
+          173,
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Управление бизнесом"
+      ],
+      "Params": {
+        "Автор": "Роуч М.",
+        "Like": "73",
+        "Dislike": "4",
+        "Bookmark": "666"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7874751",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/57/38/85/4.jpeg",
+      "Name": "Алмазный Огранщик: система управления бизнесом и жизнью"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 430,
+      "Weight": 17,
+      "ItemId": 7363492,
+      "CategoryIds": [
+        2971
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2971,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Лидерство, мотивация, тайм-менеджмент"
+      ],
+      "Params": {
+        "Автор": "Клейсон Д.С.",
+        "Like": "259",
+        "Dislike": "4",
+        "Bookmark": "631"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7363492",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/10/54/54/76.jpg",
+      "Name": "Самый богатый человек в Вавилоне"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 501,
+      "Weight": 16,
+      "ItemId": 8675679,
+      "CategoryIds": [
+        2978
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2978,
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Ведение переговоров"
+      ],
+      "Params": {
+        "Автор": "Рызов И.",
+        "Like": "39",
+        "Dislike": "1",
+        "Bookmark": "327"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8675679",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/33/60/1.jpg",
+      "Name": "Переговоры с монстрами. Как договориться с сильными мира сего"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 114,
+      "Weight": 15,
+      "ItemId": 10439991,
+      "CategoryIds": [
+        3015
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3015,
+          195,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Прокуратура, следствие и полиция"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "3"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10439991",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/48/44/30.jpeg",
+      "Name": "Федеральный закон \"О службе в органах внутренних дел Российской Федерации\". Дисциплинарный устав органов внутренних дел Российской Федерации"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1024,
+      "Weight": 14,
+      "ItemId": 10469755,
+      "CategoryIds": [
+        3014
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3014,
+          195,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Судебная система"
+      ],
+      "Params": {
+        "Автор": "Чашин А.Н.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "9"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10469755",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/49/32/76.jpeg",
+      "Name": "Квалификационный экзамен на должность судьи суда общей юрисдикции"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 395,
+      "Weight": 13,
+      "ItemId": 9372521,
+      "CategoryIds": [
+        2994
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2994,
+          192,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Судебная психиатрия"
+      ],
+      "Params": {
+        "Автор": "Норрис Д.",
+        "Like": "33",
+        "Dislike": "3",
+        "Bookmark": "276"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9372521",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/67/41/25/0.jpeg",
+      "Name": "Говорят серийные убийцы. Пять историй маньяков"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1217,
+      "Weight": 12,
+      "ItemId": 6908751,
+      "CategoryIds": [
+        116
+      ],
+      "CategoryPathsToRoot": [
+        [
+          116,
+          115,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Экономическая теория. Макроэкономика. Микроэкономика"
+      ],
+      "Params": {
+        "Автор": "Чанг, Ха-Джун ",
+        "Like": "199",
+        "Dislike": "29",
+        "Bookmark": "1109"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6908751",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/35/22/31/7.jpeg",
+      "Name": "Как устроена экономика"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 737,
+      "Weight": 11,
+      "ItemId": 10099795,
+      "CategoryIds": [
+        174
+      ],
+      "CategoryPathsToRoot": [
+        [
+          174,
+          168,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Истории успеха"
+      ],
+      "Params": {
+        "Автор": "Льюри Д.",
+        "Like": "6",
+        "Dislike": "1",
+        "Bookmark": "63"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10099795",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/72/21/56/2.jpeg",
+      "Name": "Как Coca-Cola завоевала мир. 101 успешный кейс от брендов с мировым именем"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 543,
+      "Weight": 10,
+      "ItemId": 9373610,
+      "CategoryIds": [
+        2968
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2968,
+          131,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Ланцова Е., отв. ред.",
+        "Like": "9",
+        "Dislike": "0",
+        "Bookmark": "74"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9373610",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/67/41/19/4.jpeg",
+      "Name": "Kakebo. Японское искусство экономии денег по системе Мотоко Хани"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 641,
+      "Weight": 9,
+      "ItemId": 8836317,
+      "CategoryIds": [
+        157
+      ],
+      "CategoryPathsToRoot": [
+        [
+          157,
+          147,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Секретариат"
+      ],
+      "Params": {
+        "Автор": "Ильяхов М.",
+        "Like": "158",
+        "Dislike": "17",
+        "Bookmark": "1026"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8836317",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/37/72/1.jpg",
+      "Name": "Новые правила деловой переписки"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 183,
+      "Weight": 8,
+      "ItemId": 10872324,
+      "CategoryIds": [
+        3025
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3025,
+          196,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Жилищное право"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "3"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10872324",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/28/90.jpeg",
+      "Name": "Жилищный кодекс Российской Федерации. Текст с изменениями и дополнениями на 1 февраля 2021 года (+ сравнительная таблица изменений)"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 120,
+      "Weight": 7,
+      "ItemId": 10757794,
+      "CategoryIds": [
+        3023
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3023,
+          196,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Гражданско- и арбитражно-процессуальное право"
+      ],
+      "Params": {
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "4"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10757794",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/16/39.jpeg",
+      "Name": "Арбитражный процессуальный кодекс Российской Федерации: текст с изменениями и дополнениями на 2021 год"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 89,
+      "Weight": 6,
+      "ItemId": 13002884,
+      "CategoryIds": [
+        3024
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3024,
+          196,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Семейное и наследственное право"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "1"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=13002884",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/59/25/84.jpeg",
+      "Name": "Семейный кодекс Российской Федерации. Текст с изменениями и дополнениями на 1 июня 2021 года (+ сравнительная таблица изменений)"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 262,
+      "Weight": 5,
+      "ItemId": 6899457,
+      "CategoryIds": [
+        3018
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3018,
+          196,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы. Гражданский кодекс"
+      ],
+      "Params": {
+        "Автор": "Устинова, Анастасия Васильевна",
+        "Like": "8",
+        "Dislike": "0",
+        "Bookmark": "61"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6899457",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/03/27/1.jpeg",
+      "Name": "Гражданское право.Уч."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 180,
+      "Weight": 4,
+      "ItemId": 12999722,
+      "CategoryIds": [
+        204
+      ],
+      "CategoryPathsToRoot": [
+        [
+          204,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "0"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12999722",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/59/47/97.jpeg",
+      "Name": "Книга отзывов и предложений. Закон РФ \"О защите прав потребителей\" с образцами заявлений на 2021 год. Правила торговли. Санкции (постановления Правите"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 898,
+      "Weight": 3,
+      "ItemId": 10697546,
+      "CategoryIds": [
+        188
+      ],
+      "CategoryPathsToRoot": [
+        [
+          188,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Международное право"
+      ],
+      "Params": {
+        "Автор": "Бекяшев К.А.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "2"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10697546",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/03/95.jpeg",
+      "Name": "Международное публичное право. Учебник"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 124,
+      "Weight": 2,
+      "ItemId": 10966362,
+      "CategoryIds": [
+        3027
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3027,
+          196,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "1"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10966362",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/40/67.jpeg",
+      "Name": "Федеральный закон \"О государственной гражданской службе Российской Федерации\". Текст с изменениями и дополнениями на 2021 год"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 58,
+      "Weight": 1,
+      "ItemId": 10439992,
+      "CategoryIds": [
+        3013
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3013,
+          195,
+          182,
+          114,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Административное право"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "5"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10439992",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/48/44/25.jpeg",
+      "Name": "Федеральный закон \"О противодействии коррупции\""
+    }
+  ]

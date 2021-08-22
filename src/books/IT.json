@@ -1,0 +1,1815 @@
+[
+    {
+      "OldPrice": 0,
+      "Price": 708,
+      "Weight": 46,
+      "ItemId": 8551226,
+      "CategoryIds": [
+        218
+      ],
+      "CategoryPathsToRoot": [
+        [
+          218,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Программирование"
+      ],
+      "Params": {
+        "Автор": "Мартин Р.",
+        "Like": "91",
+        "Dislike": "3",
+        "Bookmark": "467"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8551226",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/52/18/79/6.jpeg",
+      "Name": "Чистый код: создание, анализ и рефакторинг"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1352,
+      "Weight": 45,
+      "ItemId": 10935353,
+      "CategoryIds": [
+        3037
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3037,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Компьютерные сети"
+      ],
+      "Params": {
+        "Автор": "Олифер В.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "26"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10935353",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/47/99/85.jpeg",
+      "Name": "Компьютерные сети. Принципы технологии протоколы. Юбилейное издание"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 792,
+      "Weight": 44,
+      "ItemId": 10040362,
+      "CategoryIds": [
+        3033
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3033,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Создание и обработка мультимедиа"
+      ],
+      "Params": {
+        "Автор": "Шелл Д.",
+        "Like": "37",
+        "Dislike": "1",
+        "Bookmark": "362"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10040362",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/69/10/25/9.jpg",
+      "Name": "Геймдизайн: Как создать игру, в которую будут играть все"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1428,
+      "Weight": 43,
+      "ItemId": 9752230,
+      "CategoryIds": [
+        3039
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3039,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Разработка и веб-дизайн"
+      ],
+      "Params": {
+        "Автор": "Дакетт Д.",
+        "Like": "31",
+        "Dislike": "1",
+        "Bookmark": "185"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9752230",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/63/96/65/8.jpeg",
+      "Name": "HTML и CSS. Разработка и создание веб-сайтов"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 812,
+      "Weight": 42,
+      "ItemId": 7243711,
+      "CategoryIds": [
+        218
+      ],
+      "CategoryPathsToRoot": [
+        [
+          218,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Программирование"
+      ],
+      "Params": {
+        "Автор": "Бхаргава, Адитья ",
+        "Like": "192",
+        "Dislike": "5",
+        "Bookmark": "1022"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7243711",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/38/79/63/6.jpeg",
+      "Name": "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1395,
+      "Weight": 41,
+      "ItemId": 10500090,
+      "CategoryIds": [
+        208
+      ],
+      "CategoryPathsToRoot": [
+        [
+          208,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Графика и дизайн"
+      ],
+      "Params": {
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "34"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10500090",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/51/08/51.jpeg",
+      "Name": "Procreate. Учимся создавать шедевры на iPad"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1679,
+      "Weight": 40,
+      "ItemId": 11039191,
+      "CategoryIds": [
+        206
+      ],
+      "CategoryPathsToRoot": [
+        [
+          206,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Информатика"
+      ],
+      "Params": {
+        "Автор": "Петцольд Ч.",
+        "Like": "4",
+        "Dislike": "0",
+        "Bookmark": "44"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=11039191",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/53/65.jpeg",
+      "Name": "Код: тайный язык информатики"
+    },
+    {
+      "OldPrice": 2220,
+      "Price": 1848,
+      "Weight": 39,
+      "ItemId": 7874784,
+      "CategoryIds": [
+        3034
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3034,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "ПО для предприятий и организаций"
+      ],
+      "Params": {
+        "Автор": "Дадян Э.Г.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "5"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7874784",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/68/26/50/9.jpeg",
+      "Name": "Программирование и конфигурирование в системе 1С: Предприятие"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 499,
+      "Weight": 38,
+      "ItemId": 7689309,
+      "CategoryIds": [
+        211
+      ],
+      "CategoryPathsToRoot": [
+        [
+          211,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Аппаратные средства"
+      ],
+      "Params": {
+        "Like": "13",
+        "Dislike": "2",
+        "Bookmark": "191"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7689309",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/63/95/4.jpg",
+      "Name": "Правила устройства электроустановок: Все действующие разделы ПУЭ-6 и ПУЭ-7. Шестое и седьмое издания (все действующие разделы)"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1312,
+      "Weight": 37,
+      "ItemId": 10389909,
+      "CategoryIds": [
+        3029
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3029,
+          212,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Гейг М.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "16"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10389909",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/47/80/80.jpeg",
+      "Name": "Разработка игр на Unity 2018 за 24 часа"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1089,
+      "Weight": 36,
+      "ItemId": 6096637,
+      "CategoryIds": [
+        3036
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3036,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Вигерс, Карл , Битти, Джой ",
+        "Like": "16",
+        "Dislike": "0",
+        "Bookmark": "117"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6096637",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/37/51/33/8.jpeg",
+      "Name": "Разработка требований к программному обеспечению / 3-е изд., доп."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 165,
+      "Weight": 35,
+      "ItemId": 6738294,
+      "CategoryIds": [
+        3028
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3028,
+          212,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Справочная литература"
+      ],
+      "Params": {
+        "Автор": "Леонов, Василий ",
+        "Like": "15",
+        "Dislike": "1",
+        "Bookmark": "132"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6738294",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/33/15/49/9.jpeg",
+      "Name": "Простой и понятный самоучитель Word и Excel."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 700,
+      "Weight": 34,
+      "ItemId": 8867822,
+      "CategoryIds": [
+        3033
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3033,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Создание и обработка мультимедиа"
+      ],
+      "Params": {
+        "Автор": "Шрейер Д.",
+        "Like": "266",
+        "Dislike": "6",
+        "Bookmark": "741"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8867822",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/39/86/1.jpeg",
+      "Name": "Кровь, пот и пиксели. Обратная сторона индустрии видеоигр. 2-е издание"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1557,
+      "Weight": 33,
+      "ItemId": 8556702,
+      "CategoryIds": [
+        207
+      ],
+      "CategoryPathsToRoot": [
+        [
+          207,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Безопасность ПК"
+      ],
+      "Params": {
+        "Like": "25",
+        "Dislike": "0",
+        "Bookmark": "204"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8556702",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/52/89/17/4.jpeg",
+      "Name": "Хакинг: искусство эксплойта. 2-е изд."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 498,
+      "Weight": 32,
+      "ItemId": 7949083,
+      "CategoryIds": [
+        219
+      ],
+      "CategoryPathsToRoot": [
+        [
+          219,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Базы данных"
+      ],
+      "Params": {
+        "Автор": "Cтивенс-Давидовиц С.",
+        "Like": "67",
+        "Dislike": "10",
+        "Bookmark": "291"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7949083",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/45/63/14/4.jpeg",
+      "Name": "Все лгут. Поисковики, Big Data и Интернет знают о вас все"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1488,
+      "Weight": 31,
+      "ItemId": 3214496,
+      "CategoryIds": [
+        3035
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3035,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "ПО для проектирования и конструирования"
+      ],
+      "Params": {
+        "Автор": "и другие,  , Фримен, Элизабет , Фримен, Эрик ",
+        "Like": "103",
+        "Dislike": "3",
+        "Bookmark": "342"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3214496",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/30/42/40/0.jpeg",
+      "Name": "Паттерны проектирования"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1707,
+      "Weight": 30,
+      "ItemId": 7942456,
+      "CategoryIds": [
+        208
+      ],
+      "CategoryPathsToRoot": [
+        [
+          208,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Графика и дизайн"
+      ],
+      "Params": {
+        "Автор": "Селлерс Г.",
+        "Like": "2",
+        "Dislike": "1",
+        "Bookmark": "12"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7942456",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/45/57/43/0.jpeg",
+      "Name": "Vulkan. Руководство разработчика"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 295,
+      "Weight": 29,
+      "ItemId": 10756974,
+      "CategoryIds": [
+        210
+      ],
+      "CategoryPathsToRoot": [
+        [
+          210,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Мобильные устройства"
+      ],
+      "Params": {
+        "Автор": "Жуков И.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "3"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10756974",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/15/85.jpeg",
+      "Name": "Сотовый, смартфон. Самоучитель с нуля. Для любого возраста. Максимально понятно"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1353,
+      "Weight": 28,
+      "ItemId": 9729589,
+      "CategoryIds": [
+        3039
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3039,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Разработка и веб-дизайн"
+      ],
+      "Params": {
+        "Автор": "Мардан А.",
+        "Like": "4",
+        "Dislike": "1",
+        "Bookmark": "19"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9729589",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/67/27/86/6.jpeg",
+      "Name": "React быстро. Веб-приложения на React, JSX, Redux и GraphQL"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 913,
+      "Weight": 27,
+      "ItemId": 9729582,
+      "CategoryIds": [
+        3037
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3037,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Компьютерные сети"
+      ],
+      "Params": {
+        "Автор": "Бёрнс Б.",
+        "Like": "6",
+        "Dislike": "0",
+        "Bookmark": "32"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9729582",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/67/27/85/9.jpeg",
+      "Name": "Распределенные системы. Паттерны проектирования"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1624,
+      "Weight": 26,
+      "ItemId": 8737567,
+      "CategoryIds": [
+        3036
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3036,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Бейер Б.",
+        "Like": "7",
+        "Dislike": "0",
+        "Bookmark": "48"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8737567",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/54/51/05/9.jpeg",
+      "Name": "Site Reliability Engineering. Надежность и безотказность как в Google"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 741,
+      "Weight": 25,
+      "ItemId": 12992825,
+      "CategoryIds": [
+        215
+      ],
+      "CategoryPathsToRoot": [
+        [
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Интернет"
+      ],
+      "Params": {
+        "Автор": "Постолит А.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "2"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12992825",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/57/99/02.jpeg",
+      "Name": "Python, Django и PyCharm для начинающих"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1598,
+      "Weight": 24,
+      "ItemId": 10966114,
+      "CategoryIds": [
+        218
+      ],
+      "CategoryPathsToRoot": [
+        [
+          218,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Программирование"
+      ],
+      "Params": {
+        "Автор": "Лакман М.Г.",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "14"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10966114",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/83/96/50/0.jpeg",
+      "Name": "Карьера программиста. 6-е издание"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 740,
+      "Weight": 23,
+      "ItemId": 626612,
+      "CategoryIds": [
+        211
+      ],
+      "CategoryPathsToRoot": [
+        [
+          211,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Аппаратные средства"
+      ],
+      "Params": {
+        "Автор": "Смил, Вацлав ",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "28"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=626612",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/68/25/78/1.jpeg",
+      "Name": "Энергетика: мифы и реальность. Научный подход к анализу мировой энергетической политики."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 795,
+      "Weight": 22,
+      "ItemId": 12992749,
+      "CategoryIds": [
+        3029
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3029,
+          212,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Постолит А.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "1"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12992749",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/57/98/88.jpeg",
+      "Name": "Основы искусственного интеллекта в примерах на Python. Самоучитель"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 762,
+      "Weight": 21,
+      "ItemId": 10479543,
+      "CategoryIds": [
+        3034
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3034,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "ПО для предприятий и организаций"
+      ],
+      "Params": {
+        "Автор": "Грас Д.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "38"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10479543",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/50/09/92.jpeg",
+      "Name": "Data Science. Наука о данных с нуля"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 762,
+      "Weight": 20,
+      "ItemId": 7853044,
+      "CategoryIds": [
+        206
+      ],
+      "CategoryPathsToRoot": [
+        [
+          206,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Информатика"
+      ],
+      "Params": {
+        "Автор": "Грас Д.",
+        "Like": "25",
+        "Dislike": "1",
+        "Bookmark": "219"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7853044",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/69/51/1.gif",
+      "Name": "Data Science. Наука о данных с нуля"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 598,
+      "Weight": 19,
+      "ItemId": 7099932,
+      "CategoryIds": [
+        3038
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3038,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Интернет: общие вопросы"
+      ],
+      "Params": {
+        "Автор": "Бартлетт, Джейми ",
+        "Like": "20",
+        "Dislike": "3",
+        "Bookmark": "169"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7099932",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/38/47/57/2.jpeg",
+      "Name": "Подпольный интернет: Темная сторона мировой паутины"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1421,
+      "Weight": 18,
+      "ItemId": 10449174,
+      "CategoryIds": [
+        207
+      ],
+      "CategoryPathsToRoot": [
+        [
+          207,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Безопасность ПК"
+      ],
+      "Params": {
+        "Автор": "Тронкон П.",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "27"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10449174",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/48/64/68.jpeg",
+      "Name": "Bash и кибербезопасность: атака, защита и анализ из командной строки Linux"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 297,
+      "Weight": 17,
+      "ItemId": 8544686,
+      "CategoryIds": [
+        3035
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3035,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "ПО для проектирования и конструирования"
+      ],
+      "Params": {
+        "Автор": "Дехтярь К.",
+        "Like": "16",
+        "Dislike": "3",
+        "Bookmark": "38"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8544686",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/52/12/26/1.jpeg",
+      "Name": "PixelArt Самоучитель"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1797,
+      "Weight": 16,
+      "ItemId": 9764329,
+      "CategoryIds": [
+        219
+      ],
+      "CategoryPathsToRoot": [
+        [
+          219,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Базы данных"
+      ],
+      "Params": {
+        "Автор": "Шёгин Г.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "16"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9764329",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/67/26/49/2.jpeg",
+      "Name": "PostgreSQL 11. Мастерство разработки. Как специалисты создают масштабируемые, надежные и отказоустойчивые приложения базы данных"
+    },
+    {
+      "OldPrice": 3185,
+      "Price": 2233,
+      "Weight": 15,
+      "ItemId": 10759670,
+      "CategoryIds": [
+        3032
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3032,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Табличные редакторы"
+      ],
+      "Params": {
+        "Автор": "Винстон У.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "8"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10759670",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/23/43.jpeg",
+      "Name": "Бизнес-моделирование и анализ данных. Решение актуальных задач с помощью Microsoft Excel"
+    },
+    {
+      "OldPrice": 326,
+      "Price": 283,
+      "Weight": 14,
+      "ItemId": 5882567,
+      "CategoryIds": [
+        212
+      ],
+      "CategoryPathsToRoot": [
+        [
+          212,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Самоучители работы на ПК"
+      ],
+      "Params": {
+        "Автор": "Левина, Любовь Тимофеевна",
+        "Like": "7",
+        "Dislike": "1",
+        "Bookmark": "31"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=5882567",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/25/34/65/1.jpeg",
+      "Name": "Компьютерный букварь для ржавых чайников"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 284,
+      "Weight": 13,
+      "ItemId": 3287096,
+      "CategoryIds": [
+        3030
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Прикладное программное обеспечение"
+      ],
+      "Params": {
+        "Автор": "Гленн К.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "0"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3287096",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/29/19/81.jpg",
+      "Name": "ArchiCAD 11."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 912,
+      "Weight": 12,
+      "ItemId": 10088814,
+      "CategoryIds": [
+        205
+      ],
+      "CategoryPathsToRoot": [
+        [
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Компьютерная литература"
+      ],
+      "Params": {
+        "Автор": "Осинга Д.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "5"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10088814",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/72/49/33/5.jpeg",
+      "Name": "Глубокое обучение. Готовые решения"
+    },
+    {
+      "OldPrice": 2393,
+      "Price": 1677,
+      "Weight": 11,
+      "ItemId": 10081474,
+      "CategoryIds": [
+        213
+      ],
+      "CategoryPathsToRoot": [
+        [
+          213,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Операционные системы"
+      ],
+      "Params": {
+        "Автор": "Ричардсон К.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "21"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10081474",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/44/83/03.jpeg",
+      "Name": "Микросервисы. Паттерны разработки и рефакторинга"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 499,
+      "Weight": 10,
+      "ItemId": 10212390,
+      "CategoryIds": [
+        3040
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3040,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Лири Т.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "3"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10212390",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/73/99/06/2.jpeg",
+      "Name": "Успешный аккаунт: кратко, ясно, просто"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 879,
+      "Weight": 9,
+      "ItemId": 8273496,
+      "CategoryIds": [
+        218
+      ],
+      "CategoryPathsToRoot": [
+        [
+          218,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Программирование"
+      ],
+      "Params": {
+        "Автор": "Мартин Р.",
+        "Like": "89",
+        "Dislike": "6",
+        "Bookmark": "422"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8273496",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/48/89/32/0.jpeg",
+      "Name": "Чистая архитектура. Искусство разработки программного обеспечения"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 983,
+      "Weight": 8,
+      "ItemId": 7871764,
+      "CategoryIds": [
+        3037
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3037,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Компьютерные сети"
+      ],
+      "Params": {
+        "Автор": "Николенко С.И.",
+        "Like": "35",
+        "Dislike": "1",
+        "Bookmark": "341"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7871764",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/90/42/9.jpeg",
+      "Name": "Глубокое обучение"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 871,
+      "Weight": 7,
+      "ItemId": 10956884,
+      "CategoryIds": [
+        208
+      ],
+      "CategoryPathsToRoot": [
+        [
+          208,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Графика и дизайн"
+      ],
+      "Params": {
+        "Автор": "Тучкевич Е.И.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "19"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10956884",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/33/45.jpeg",
+      "Name": "Adobe Illustrator CC2020. Мастер-класс Евгении Тучкевич"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 490,
+      "Weight": 6,
+      "ItemId": 10757838,
+      "CategoryIds": [
+        3039
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3039,
+          215,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Разработка и веб-дизайн"
+      ],
+      "Params": {
+        "Автор": "Молочков В.П.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "6"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10757838",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/17/29.jpeg",
+      "Name": "WordPress с нуля"
+    },
+    {
+      "OldPrice": 262,
+      "Price": 233,
+      "Weight": 5,
+      "ItemId": 10526661,
+      "CategoryIds": [
+        210
+      ],
+      "CategoryPathsToRoot": [
+        [
+          210,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Мобильные устройства"
+      ],
+      "Params": {
+        "Автор": "Левина Л.Т.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "0"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10526661",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/51/24/89.jpeg",
+      "Name": "Планшет для тех, кто ни бум-бум в компьютерах"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1077,
+      "Weight": 4,
+      "ItemId": 10365793,
+      "CategoryIds": [
+        3036
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3036,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Ридланд М.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "0"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10365793",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/47/63/94.jpeg",
+      "Name": "3D-печать с помощью SketchUp"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1260,
+      "Weight": 3,
+      "ItemId": 10193074,
+      "CategoryIds": [
+        209
+      ],
+      "CategoryPathsToRoot": [
+        [
+          209,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Бухгалтерские и правовые программы"
+      ],
+      "Params": {
+        "Автор": "Конрад Карлберг",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "18"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10193074",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/73/12/20/5.jpeg",
+      "Name": "Анализ финансовой отчетности с помощью Excel"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 980,
+      "Weight": 2,
+      "ItemId": 10757625,
+      "CategoryIds": [
+        3035
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3035,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "ПО для проектирования и конструирования"
+      ],
+      "Params": {
+        "Автор": "Герасимов А.А.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "5"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10757625",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/52/17/24.jpeg",
+      "Name": "Самоучитель КОМПАС-3D V19"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1182,
+      "Weight": 1,
+      "ItemId": 7952258,
+      "CategoryIds": [
+        3034
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3034,
+          3030,
+          205,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "ПО для предприятий и организаций"
+      ],
+      "Params": {
+        "Автор": "Кантелон М.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "43"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7952258",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/52/24/00/2.jpeg",
+      "Name": "Node.js в действии. 2-е издание"
+    }
+  ]

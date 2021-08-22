@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './header'
+import Header from './components/header'
 import { Home, Basket } from './screens'
 import {
   BrowserRouter as Router,
@@ -13,6 +13,8 @@ const list = [
   { name: '3', sullpier: '3', price: 3, piece: 1 }
 
 ]
+
+const test = 2
 
 const App = () => {
   return (
