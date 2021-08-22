@@ -1,0 +1,1833 @@
+[
+    {
+      "OldPrice": 0,
+      "Price": 434,
+      "Weight": 46,
+      "ItemId": 6519683,
+      "CategoryIds": [
+        2798
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2798,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общественные науки"
+      ],
+      "Params": {
+        "Автор": "Шефер, Бодо ",
+        "Like": "236",
+        "Dislike": "5",
+        "Bookmark": "1152"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6519683",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/32/05/24/4.jpeg",
+      "Name": "Пёс по имени Мани"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 321,
+      "Weight": 45,
+      "ItemId": 7891300,
+      "CategoryIds": [
+        2781
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2781,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Детективы и приключения"
+      ],
+      "Params": {
+        "Автор": "Шойнеманн Ф.",
+        "Like": "302",
+        "Dislike": "8",
+        "Bookmark": "1442"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7891300",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/45/64/34/1.jpeg",
+      "Name": "Агент на мягких лапах"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 385,
+      "Weight": 44,
+      "ItemId": 376547,
+      "CategoryIds": [
+        2787
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2787,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение чтению"
+      ],
+      "Params": {
+        "Автор": "Жукова, Надежда Сергеевна",
+        "Like": "1008",
+        "Dislike": "43",
+        "Bookmark": "2565"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=376547",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/34/89/44/7.jpeg",
+      "Name": "Букварь"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 365,
+      "Weight": 43,
+      "ItemId": 3263804,
+      "CategoryIds": [
+        2782
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2782,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Фантастика"
+      ],
+      "Params": {
+        "Автор": "Джонс Д.У.",
+        "Like": "4102",
+        "Dislike": "151",
+        "Bookmark": "4005"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3263804",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/68/27/23/5.jpeg",
+      "Name": "Ходячий замок"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 571,
+      "Weight": 42,
+      "ItemId": 9318004,
+      "CategoryIds": [
+        2778
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2778,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Сказки"
+      ],
+      "Params": {
+        "Автор": "Янссон Т.",
+        "Like": "557",
+        "Dislike": "12",
+        "Bookmark": "1530"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9318004",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/61/74/18/4.jpeg",
+      "Name": "Всё о муми-троллях. Книга 1: повести-сказки"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 218,
+      "Weight": 41,
+      "ItemId": 7406763,
+      "CategoryIds": [
+        2789
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2789,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение счету"
+      ],
+      "Params": {
+        "Автор": "Петерсон Л.Г.",
+        "Like": "78",
+        "Dislike": "4",
+        "Bookmark": "930"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7406763",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/74/27/34.jpg",
+      "Name": "Раз - ступенька, два - ступенька... Математика для детей 6-7 лет. Часть 2. (ФГОС ДО)"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 198,
+      "Weight": 40,
+      "ItemId": 8627160,
+      "CategoryIds": [
+        2786
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2786,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие развивающие методики"
+      ],
+      "Params": {
+        "Автор": "Колесникова Е.В.",
+        "Like": "33",
+        "Dislike": "0",
+        "Bookmark": "621"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8627160",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/54/43/87/0.jpg",
+      "Name": "От А до Я. Рабочая тетрадь для детей 5-6 лет. ФГОС ДО"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 28,
+      "Weight": 39,
+      "ItemId": 614945,
+      "CategoryIds": [
+        2788
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2788,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение письму"
+      ],
+      "Params": {
+        "Like": "49",
+        "Dislike": "5",
+        "Bookmark": "888"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=614945",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/68/26/68/2.jpeg",
+      "Name": "Тетрадь с заданиями для развития детей. Изучаем грамоту. Часть 1"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 341,
+      "Weight": 38,
+      "ItemId": 7403654,
+      "CategoryIds": [
+        2801
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2801,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Спорт, здоровый образ жизни"
+      ],
+      "Params": {
+        "Автор": "Дорофеева А.В.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "12"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7403654",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/40/05/55/0.jpeg",
+      "Name": "Хочу учиться шахматам!"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 271,
+      "Weight": 37,
+      "ItemId": 8835830,
+      "CategoryIds": [
+        2780
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2780,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Проза"
+      ],
+      "Params": {
+        "Автор": "Вестли А.-К.",
+        "Like": "41",
+        "Dislike": "2",
+        "Bookmark": "181"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8835830",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/55/79/90/4.jpeg",
+      "Name": "Папа, мама, бабушка, восемь детей и грузовик"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 48,
+      "Weight": 36,
+      "ItemId": 12795677,
+      "CategoryIds": [
+        2819
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2819,
+          2814,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Организация праздника"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "3"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12795677",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/53/33/30.jpeg",
+      "Name": "Плакат вырубной А3 \"1 сентября!\""
+    },
+    {
+      "OldPrice": 0,
+      "Price": 342,
+      "Weight": 35,
+      "ItemId": 6743898,
+      "CategoryIds": [
+        2797
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2797,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Естественные науки"
+      ],
+      "Params": {
+        "Автор": "Емельянова Т.",
+        "Like": "15",
+        "Dislike": "2",
+        "Bookmark": "130"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6743898",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/27/16/90.jpeg",
+      "Name": "История Санкт-Петербурга для детей, русский язык"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 7,
+      "Weight": 34,
+      "ItemId": 10073275,
+      "CategoryIds": [
+        2775
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2775,
+          2770,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Книги с наклейками"
+      ],
+      "Params": {
+        "Like": "5",
+        "Dislike": "3",
+        "Bookmark": "71"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10073275",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/73/77/29/3.jpg",
+      "Name": "Наклейки для поощрения \"Смайлики\""
+    },
+    {
+      "OldPrice": 0,
+      "Price": 240,
+      "Weight": 33,
+      "ItemId": 6806158,
+      "CategoryIds": [
+        2778
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2778,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Сказки"
+      ],
+      "Params": {
+        "Автор": "Сент-Экзюпери, Антуан де ",
+        "Like": "3978",
+        "Dislike": "161",
+        "Bookmark": "2001"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6806158",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/33/94/06/8.jpeg",
+      "Name": "Маленький принц (нов. обл.) (рис. автора)"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 830,
+      "Weight": 32,
+      "ItemId": 12341492,
+      "CategoryIds": [
+        2800
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2800,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Искусство и культура"
+      ],
+      "Params": {
+        "Автор": "Постригай А.И.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "14"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12341492",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/03/69/12.jpg",
+      "Name": "Удивительное искусство детям: от Древнего Мира до Леонардо да Винчи"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 972,
+      "Weight": 31,
+      "ItemId": 2576919,
+      "CategoryIds": [
+        2804
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2804,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Универсальные детские энциклопедии и справочники"
+      ],
+      "Params": {
+        "Автор": "Лекре, Мишель , Галле, Селия ",
+        "Like": "45",
+        "Dislike": "1",
+        "Bookmark": "397"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=2576919",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/14/12/46.jpeg",
+      "Name": "Копилка секретов для настоящих мальчишек"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 104,
+      "Weight": 30,
+      "ItemId": 5802411,
+      "CategoryIds": [
+        2789
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2789,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение счету"
+      ],
+      "Params": {
+        "Автор": "Колесникова, Елена Владимировна",
+        "Like": "109",
+        "Dislike": "15",
+        "Bookmark": "961"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=5802411",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/68/26/27/3.jpeg",
+      "Name": "Я считаю до двадцати. Математика для детей 6-7 лет. - 2-е изд., перераб. и доп."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 438,
+      "Weight": 29,
+      "ItemId": 6057397,
+      "CategoryIds": [
+        2782
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2782,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Фантастика"
+      ],
+      "Params": {
+        "Автор": "Гейман, Нил ",
+        "Like": "1969",
+        "Dislike": "87",
+        "Bookmark": "2120"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6057397",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/64/31/25/5.jpeg",
+      "Name": "Коралина"
+    },
+    {
+      "OldPrice": 530,
+      "Price": 500,
+      "Weight": 28,
+      "ItemId": 9234654,
+      "CategoryIds": [
+        2784
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2784,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Комиксы для детей"
+      ],
+      "Params": {
+        "Автор": "Ионов А.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "17"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9234654",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/58/13/36/2.jpeg",
+      "Name": "Дональд Дак. Замкнутый круг"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 902,
+      "Weight": 27,
+      "ItemId": 2573440,
+      "CategoryIds": [
+        2771
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2771,
+          2770,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Книги-игрушки"
+      ],
+      "Params": {
+        "Автор": "Джонс, Р.Л. ",
+        "Like": "53",
+        "Dislike": "1",
+        "Bookmark": "447"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=2573440",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/13/70/68.jpeg",
+      "Name": "Секреты машин"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 61,
+      "Weight": 26,
+      "ItemId": 6805275,
+      "CategoryIds": [
+        46
+      ],
+      "CategoryPathsToRoot": [
+        [
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Литература для детей"
+      ],
+      "Params": {
+        "Автор": "Гурина, Ирина Валерьевна",
+        "Like": "53",
+        "Dislike": "0",
+        "Bookmark": "429"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6805275",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/73/60/7.jpeg",
+      "Name": "Приключения львёнка"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 312,
+      "Weight": 25,
+      "ItemId": 8044742,
+      "CategoryIds": [
+        2781
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2781,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Детективы и приключения"
+      ],
+      "Params": {
+        "Автор": "Шойнеманн Ф.",
+        "Like": "150",
+        "Dislike": "1",
+        "Bookmark": "774"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8044742",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/50/04/74/6.jpg",
+      "Name": "Загадка сбежавшего сейфа"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 16,
+      "Weight": 24,
+      "ItemId": 10476433,
+      "CategoryIds": [
+        2777
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2777,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Раскраски"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "6"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10476433",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/56/05/69.jpeg",
+      "Name": "Раскраска. Гоночные машины"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 39,
+      "Weight": 23,
+      "ItemId": 6900081,
+      "CategoryIds": [
+        2791
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2791,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другая обучающая литература"
+      ],
+      "Params": {
+        "Like": "27",
+        "Dislike": "1",
+        "Bookmark": "396"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6900081",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/34/88/89/8.jpg",
+      "Name": "Умный малыш. Противоположности. Набор карточек для детей."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 290,
+      "Weight": 22,
+      "ItemId": 12997826,
+      "CategoryIds": [
+        2816
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2816,
+          2814,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Головоломки, загадки и ребусы"
+      ],
+      "Params": {
+        "Автор": "Рэнсфорд С.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "1"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12997826",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/73/85/31.jpeg",
+      "Name": "Занимательные головоломки и игры"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 889,
+      "Weight": 21,
+      "ItemId": 8755343,
+      "CategoryIds": [
+        2785
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Дошкольное обучение, подготовка к школе"
+      ],
+      "Params": {
+        "Автор": "Джонс Р.Л.",
+        "Like": "11",
+        "Dislike": "0",
+        "Bookmark": "157"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8755343",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/54/84/10/3.jpeg",
+      "Name": "Открой тайны. Как все работает"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 83,
+      "Weight": 20,
+      "ItemId": 7381509,
+      "CategoryIds": [
+        2807
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2807,
+          2806,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Рисование"
+      ],
+      "Params": {
+        "Автор": "Линицкий П.С.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "14"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7381509",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/63/55/83/9.jpeg",
+      "Name": "Как нарисовать танк,самолет и другую технику за 30 секунд"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 836,
+      "Weight": 19,
+      "ItemId": 6902234,
+      "CategoryIds": [
+        2805
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2805,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Энциклопедии для дошкольников"
+      ],
+      "Params": {
+        "Автор": "Джонс, Р.Л. ",
+        "Like": "30",
+        "Dislike": "0",
+        "Bookmark": "299"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6902234",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/33/15/07/0.jpeg",
+      "Name": "Секреты аэропорта"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 578,
+      "Weight": 18,
+      "ItemId": 7406699,
+      "CategoryIds": [
+        2798
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2798,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общественные науки"
+      ],
+      "Params": {
+        "Автор": "Афонькин С.Ю.",
+        "Like": "33",
+        "Dislike": "1",
+        "Bookmark": "284"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7406699",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/40/19/25/1.jpg",
+      "Name": "Санкт-Петербург. Детский путеводитель. История и архитектура в занимательных рассказах"
+    },
+    {
+      "OldPrice": 1849,
+      "Price": 533,
+      "Weight": 17,
+      "ItemId": 6714443,
+      "CategoryIds": [
+        2793
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2793,
+          2792,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Христианство"
+      ],
+      "Params": {
+        "Автор": "Вознесенская, Юлия Николаевна",
+        "Like": "42",
+        "Dislike": "2",
+        "Bookmark": "36"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6714443",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/33/01/88/2.jpeg",
+      "Name": "Юлианна, или игра в киднеппинг"
+    },
+    {
+      "OldPrice": 38,
+      "Price": 35,
+      "Weight": 16,
+      "ItemId": 7884410,
+      "CategoryIds": [
+        2768
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Художественная литература"
+      ],
+      "Params": {
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "37"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7884410",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/45/03/99/3.jpg",
+      "Name": "Набор наклеек, Panini My Little Pony Movie/Мой маленький пони в кино (1 пакет с 5 наклейками)"
+    },
+    {
+      "OldPrice": 1084,
+      "Price": 894,
+      "Weight": 15,
+      "ItemId": 9020457,
+      "CategoryIds": [
+        2802
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2802,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Внешность, этикет, дружба, любовь"
+      ],
+      "Params": {
+        "Автор": "Марава Ибрагим",
+        "Like": "6",
+        "Dislike": "0",
+        "Bookmark": "124"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9020457",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/57/04/23/6.jpeg",
+      "Name": "Твое личное тело. 50 советов от девчонки, которая повзрослела"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 51,
+      "Weight": 14,
+      "ItemId": 10397892,
+      "CategoryIds": [
+        2790
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2790,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение иностранным языкам"
+      ],
+      "Params": {
+        "Автор": "Петренко С.В.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "1"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10397892",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/48/02/79.jpeg",
+      "Name": "Пишем по-английски. Алфавит. 5-6 лет"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1024,
+      "Weight": 13,
+      "ItemId": 10440514,
+      "CategoryIds": [
+        2799
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2799,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Гуманитарные науки"
+      ],
+      "Params": {
+        "Автор": "Изерн С.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "5"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10440514",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/48/51/24.jpeg",
+      "Name": "Эмоциометр инспектора Крока. Учимся определять, измерять и контролировать эмоции"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 340,
+      "Weight": 12,
+      "ItemId": 349261,
+      "CategoryIds": [
+        2772
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2772,
+          2770,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Книги-панорамки"
+      ],
+      "Params": {
+        "Автор": "Чекмарев П.Б., худож.",
+        "Like": "49",
+        "Dislike": "1",
+        "Bookmark": "64"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=349261",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/32/63/26/6.jpeg",
+      "Name": "Теремок"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 461,
+      "Weight": 11,
+      "ItemId": 3304715,
+      "CategoryIds": [
+        2780
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2780,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Проза"
+      ],
+      "Params": {
+        "Автор": "Нурдквист, Свен ",
+        "Like": "165",
+        "Dislike": "1",
+        "Bookmark": "416"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3304715",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/16/51/90.jpeg",
+      "Name": "Именинный пирог"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 23,
+      "Weight": 10,
+      "ItemId": 6806713,
+      "CategoryIds": [
+        2788
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2788,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение письму"
+      ],
+      "Params": {
+        "Like": "35",
+        "Dislike": "2",
+        "Bookmark": "335"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6806713",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/57/04/10/4.jpeg",
+      "Name": "Тетрадь с прописями. Пишем по контуру"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1382,
+      "Weight": 9,
+      "ItemId": 10043962,
+      "CategoryIds": [
+        2774
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2774,
+          2770,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Книги со звуком"
+      ],
+      "Params": {
+        "Автор": "Логунова Е.В., ред.-сост.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "3"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10043962",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/45/06/64.jpeg",
+      "Name": "Мульт. 10 песенок о дружбе. Книга-пианино"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 830,
+      "Weight": 8,
+      "ItemId": 6072877,
+      "CategoryIds": [
+        2815
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2815,
+          2814,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Опыты, эксперименты и фокусы"
+      ],
+      "Params": {
+        "Автор": "Торманова, Анна Сергеевна",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "56"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6072877",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/58/60/39/9.jpeg",
+      "Name": "Большая книга фокусов и трюков"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1202,
+      "Weight": 7,
+      "ItemId": 7769172,
+      "CategoryIds": [
+        2818
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2818,
+          2814,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Домашние игры и игры вне дома"
+      ],
+      "Params": {
+        "Автор": "О`Брайен С.",
+        "Like": "19",
+        "Dislike": "2",
+        "Bookmark": "165"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7769172",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/99/20/5.jpeg",
+      "Name": "Minecraft. Полное и исчерпывающее руководство."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 28,
+      "Weight": 6,
+      "ItemId": 9729807,
+      "CategoryIds": [
+        2786
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2786,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие развивающие методики"
+      ],
+      "Params": {
+        "Автор": "Гаврина С.",
+        "Like": "0",
+        "Dislike": "2",
+        "Bookmark": "30"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9729807",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/63/11/73/7.jpeg",
+      "Name": "30 занятий для успешной подготовки к школе. 6 лет. Часть 2"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 146,
+      "Weight": 5,
+      "ItemId": 7404748,
+      "CategoryIds": [
+        2817
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2817,
+          2814,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Дневники и анкеты"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "2"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7404748",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/40/06/38/4.jpeg",
+      "Name": "Суперальбом для девочек"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 876,
+      "Weight": 4,
+      "ItemId": 616810,
+      "CategoryIds": [
+        2804
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2804,
+          2795,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Универсальные детские энциклопедии и справочники"
+      ],
+      "Params": {
+        "Автор": "Петрановская, Людмила Владимировна",
+        "Like": "49",
+        "Dislike": "0",
+        "Bookmark": "265"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=616810",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/64/31/33/4.jpeg",
+      "Name": "Что делать, если..."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 295,
+      "Weight": 3,
+      "ItemId": 9392131,
+      "CategoryIds": [
+        2787
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2787,
+          2785,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение чтению"
+      ],
+      "Params": {
+        "Автор": "Жукова Н.С.",
+        "Like": "11",
+        "Dislike": "0",
+        "Bookmark": "45"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9392131",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/63/04/48/3.jpeg",
+      "Name": "Букварь"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 241,
+      "Weight": 2,
+      "ItemId": 9207191,
+      "CategoryIds": [
+        2810
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2810,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Домоводство"
+      ],
+      "Params": {
+        "Автор": "Бейли Э.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "16"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9207191",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/64/30/12/9.jpeg",
+      "Name": "100 занятий для девочек на каждый день"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 530,
+      "Weight": 1,
+      "ItemId": 6009979,
+      "CategoryIds": [
+        2782
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2782,
+          2768,
+          46,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Фантастика"
+      ],
+      "Params": {
+        "Автор": "Роулинг, Джоан Кэтлин",
+        "Like": "34259",
+        "Dislike": "1496",
+        "Bookmark": "4152"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6009979",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/19/87/72.jpeg",
+      "Name": "Гарри Поттер и философский камень"
+    }
+  ]

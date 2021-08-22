@@ -33,7 +33,7 @@
 .login__body__logo{
     width: 166px;
     height: 40px;
-    background-image: url(../../assets/img/SHOPPER.png);
+    background-image: url(../../../assets/img/SHOPPER.png);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;

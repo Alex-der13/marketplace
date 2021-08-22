@@ -1,0 +1,1803 @@
+[
+    {
+      "OldPrice": 1056,
+      "Price": 686,
+      "Weight": 45,
+      "ItemId": 7415142,
+      "CategoryIds": [
+        3271
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3271,
+          3265,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Биология человека. Антропология"
+      ],
+      "Params": {
+        "Автор": "Харари Ю.Н.",
+        "Like": "1223",
+        "Dislike": "72",
+        "Bookmark": "5292"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7415142",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/41/36/92/3.jpg",
+      "Name": "SAPIENS. Краткая история человечества"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 378,
+      "Weight": 44,
+      "ItemId": 12992431,
+      "CategoryIds": [
+        3307
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3307,
+          254,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие религии"
+      ],
+      "Params": {
+        "Автор": "Гребенщиков Б.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "22"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12992431",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/57/24/77.jpeg",
+      "Name": "Бхагавад-гита. Перевод Бориса Гребенщикова с комментариями и иллюстрациями"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 224,
+      "Weight": 43,
+      "ItemId": 6746817,
+      "CategoryIds": [
+        3309
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3309,
+          255,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "История философии"
+      ],
+      "Params": {
+        "Автор": "Фромм, Эрих ",
+        "Like": "684",
+        "Dislike": "38",
+        "Bookmark": "2728"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6746817",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/57/87/66/1.jpeg",
+      "Name": "Иметь или быть?"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 94,
+      "Weight": 42,
+      "ItemId": 393846,
+      "CategoryIds": [
+        3317
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3317,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Английский язык"
+      ],
+      "Params": {
+        "Автор": "Пучкова, Юлия Я.",
+        "Like": "60",
+        "Dislike": "2",
+        "Bookmark": "588"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=393846",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/04/35/27.jpeg",
+      "Name": "Забавные истории котенка Рэдди/  Reddys Funny Stories"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1090,
+      "Weight": 41,
+      "ItemId": 10312864,
+      "CategoryIds": [
+        3263
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3263,
+          251,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Страноведение. Краеведение"
+      ],
+      "Params": {
+        "Автор": "Галкина Ю.С.",
+        "Like": "92",
+        "Dislike": "3",
+        "Bookmark": "1127"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10312864",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/74/71/50/1.jpeg",
+      "Name": "Истории домов Петербурга, рассказанные их жителями"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1021,
+      "Weight": 40,
+      "ItemId": 10656164,
+      "CategoryIds": [
+        3311
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3311,
+          255,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Отдельные философские науки"
+      ],
+      "Params": {
+        "Автор": "Браун П.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "99"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10656164",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/51/41/95.jpeg",
+      "Name": "Эстетический интеллект. Как его развивать и использовать в бизнесе и жизни"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 569,
+      "Weight": 39,
+      "ItemId": 8549911,
+      "CategoryIds": [
+        3306
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3306,
+          254,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Буддизм"
+      ],
+      "Params": {
+        "Автор": "Брах Т.",
+        "Like": "6",
+        "Dislike": "0",
+        "Bookmark": "70"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8549911",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/52/18/07/9.jpeg",
+      "Name": "Радикальное принятие. Как исцелить психологическую травму и посмотреть на свою жизнь взглядом Будды."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1077,
+      "Weight": 38,
+      "ItemId": 10459831,
+      "CategoryIds": [
+        3246
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3246,
+          249,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы"
+      ],
+      "Params": {
+        "Автор": "Кук М.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "0"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10459831",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/48/86/61.jpeg",
+      "Name": "Ловкость ума. 75 гениальных парадоксов в математике, физике и философии"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 992,
+      "Weight": 37,
+      "ItemId": 9234845,
+      "CategoryIds": [
+        3271
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3271,
+          3265,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Биология человека. Антропология"
+      ],
+      "Params": {
+        "Автор": "Сапольски Р.",
+        "Like": "119",
+        "Dislike": "1",
+        "Bookmark": "1359"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9234845",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/61/74/38/1.jpg",
+      "Name": "Биология добра и зла. Как наука объясняет наши поступки"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 706,
+      "Weight": 36,
+      "ItemId": 6681659,
+      "CategoryIds": [
+        3250
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3250,
+          249,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Астрономия"
+      ],
+      "Params": {
+        "Автор": "Кэрролл, Шон Б.",
+        "Like": "37",
+        "Dislike": "0",
+        "Bookmark": "204"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6681659",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/32/75/74/0.jpeg",
+      "Name": "Вечность. В поисках окончательной теории времени"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 573,
+      "Weight": 35,
+      "ItemId": 7835670,
+      "CategoryIds": [
+        3249
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3249,
+          249,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Физика"
+      ],
+      "Params": {
+        "Автор": "Хокинг С.",
+        "Like": "338",
+        "Dislike": "5",
+        "Bookmark": "1886"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7835670",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/48/72/85/9.png",
+      "Name": "Теория Всего"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1104,
+      "Weight": 34,
+      "ItemId": 10484617,
+      "CategoryIds": [
+        3322
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3322,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Литературоведение и фольклористика"
+      ],
+      "Params": {
+        "Автор": "Лекманов О.А.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "12"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10484617",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/50/88/98.jpeg",
+      "Name": "\"Жизнь прошла. А молодость длится...\" Путеводитель по книге Ирины Одоевцевой \"На берегах Невы\""
+    },
+    {
+      "OldPrice": 0,
+      "Price": 180,
+      "Weight": 33,
+      "ItemId": 9453077,
+      "CategoryIds": [
+        3315
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3315,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общее и прикладное языкознание"
+      ],
+      "Params": {
+        "Автор": "Галь Н.",
+        "Like": "77",
+        "Dislike": "1",
+        "Bookmark": "510"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9453077",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/59/69/97/2.jpeg",
+      "Name": "Слово живое и мертвое"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 737,
+      "Weight": 32,
+      "ItemId": 10226528,
+      "CategoryIds": [
+        3245
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3245,
+          3242,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общенаучное знание и теории"
+      ],
+      "Params": {
+        "Автор": "Норт Р.",
+        "Like": "14",
+        "Dislike": "0",
+        "Bookmark": "120"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10226528",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/45/82/59.jpeg",
+      "Name": "Как изобрести все. Создай цивилизацию с нуля"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 412,
+      "Weight": 31,
+      "ItemId": 10476546,
+      "CategoryIds": [
+        3304
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3304,
+          254,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Православное христианство"
+      ],
+      "Params": {
+        "Автор": "Лествичник И.",
+        "Like": "6",
+        "Dislike": "0",
+        "Bookmark": "11"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10476546",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/49/82/00.jpeg",
+      "Name": "Лествица"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 319,
+      "Weight": 30,
+      "ItemId": 642254,
+      "CategoryIds": [
+        3323
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3323,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Шестакова, Евгения ",
+        "Like": "64",
+        "Dislike": "4",
+        "Bookmark": "496"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=642254",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/55/91/77/9.jpeg",
+      "Name": "Говори красиво и уверенно. Постановка голоса и речи"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 241,
+      "Weight": 29,
+      "ItemId": 9122285,
+      "CategoryIds": [
+        3319
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3319,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Французский язык"
+      ],
+      "Params": {
+        "Автор": "Леблан М.",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "21"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9122285",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/58/68/62/9.jpg",
+      "Name": "Французский детектив. М. Леблан. Признания Арсена Люпена = Maurice Leblanc. Les Confidences d`Arsene Lupin"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 591,
+      "Weight": 28,
+      "ItemId": 10122631,
+      "CategoryIds": [
+        3267
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3267,
+          3265,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Палеонтология"
+      ],
+      "Params": {
+        "Автор": "Брусатти С.",
+        "Like": "15",
+        "Dislike": "0",
+        "Bookmark": "113"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10122631",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/72/49/05/1.jpeg",
+      "Name": "Время динозавров: Новая история древних ящеров"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 30,
+      "Weight": 27,
+      "ItemId": 4539007,
+      "CategoryIds": [
+        3251
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3251,
+          250,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы"
+      ],
+      "Params": {
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "31"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=4539007",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/37/97/7.jpeg",
+      "Name": "Периодическая система химических элементов Д.И.Менделеева. Растворимость кислот,"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 686,
+      "Weight": 26,
+      "ItemId": 10098711,
+      "CategoryIds": [
+        3243
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3243,
+          3242,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы"
+      ],
+      "Params": {
+        "Автор": "Харари Ю.Н.",
+        "Like": "91",
+        "Dislike": "6",
+        "Bookmark": "586"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10098711",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/73/68/01/6.png",
+      "Name": "21 урок для XXI века"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 241,
+      "Weight": 25,
+      "ItemId": 10484564,
+      "CategoryIds": [
+        3309
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3309,
+          255,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "История философии"
+      ],
+      "Params": {
+        "Автор": "Бодрийяр Ж.",
+        "Like": "45",
+        "Dislike": "3",
+        "Bookmark": "417"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10484564",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/50/31/68.jpeg",
+      "Name": "Общество потребления"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 351,
+      "Weight": 24,
+      "ItemId": 421091,
+      "CategoryIds": [
+        3321
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3321,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие языки"
+      ],
+      "Params": {
+        "Автор": "Икэда И.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "18"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=421091",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/21/56/90.jpeg",
+      "Name": "DVD, Образование, Разговорный японский в диалогах. Диск mp3"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 891,
+      "Weight": 23,
+      "ItemId": 12949963,
+      "CategoryIds": [
+        3301
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3301,
+          254,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы теологии"
+      ],
+      "Params": {
+        "Автор": "Бальяни А.П.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "7"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12949963",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/03/09/01.jpg",
+      "Name": "Тело Папы"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 514,
+      "Weight": 22,
+      "ItemId": 9028066,
+      "CategoryIds": [
+        3303
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3303,
+          254,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Христианство"
+      ],
+      "Params": {
+        "Автор": "Латынина Ю.",
+        "Like": "66",
+        "Dislike": "34",
+        "Bookmark": "692"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9028066",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/59/36/7.jpg",
+      "Name": "Иисус. Историческое расследование"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 479,
+      "Weight": 21,
+      "ItemId": 8541413,
+      "CategoryIds": [
+        3247
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3247,
+          249,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Математика"
+      ],
+      "Params": {
+        "Автор": "Савельев В.",
+        "Like": "32",
+        "Dislike": "4",
+        "Bookmark": "223"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8541413",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/52/08/32/5.jpeg",
+      "Name": "Статистика и котики"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 631,
+      "Weight": 20,
+      "ItemId": 655148,
+      "CategoryIds": [
+        3305
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3305,
+          254,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Ислам"
+      ],
+      "Params": {
+        "Автор": "Аляутдинов Ш.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "0"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=655148",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/19/52/45.jpeg",
+      "Name": "Перевод смыслов Священного Корана. В 5 т. Т. 4."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 365,
+      "Weight": 19,
+      "ItemId": 9778348,
+      "CategoryIds": [
+        3320
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3320,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Испанский язык"
+      ],
+      "Params": {
+        "Автор": "Абрамова М.Д.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "8"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9778348",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/63/02/46/1.jpeg",
+      "Name": "Практический курс испанского языка"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 459,
+      "Weight": 18,
+      "ItemId": 12907869,
+      "CategoryIds": [
+        3229
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3229,
+          247,
+          243,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Энергетика"
+      ],
+      "Params": {
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "6"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12907869",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/03/07/65.jpeg",
+      "Name": "Библия электрика: ПУЭ, ПОТЭЭ, ПТЭЭП"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1493,
+      "Weight": 17,
+      "ItemId": 10442153,
+      "CategoryIds": [
+        3222
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3222,
+          246,
+          243,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы"
+      ],
+      "Params": {
+        "Автор": "Варламов И.",
+        "Like": "43",
+        "Dislike": "1",
+        "Bookmark": "130"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10442153",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/79/46/32/9.jpeg",
+      "Name": "100 советов мэру. Книга рецептов хорошего города"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 792,
+      "Weight": 16,
+      "ItemId": 10487322,
+      "CategoryIds": [
+        3297
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3297,
+          253,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Культура"
+      ],
+      "Params": {
+        "Автор": "Сталкер Н.",
+        "Like": "16",
+        "Dislike": "0",
+        "Bookmark": "247"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10487322",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/50/36/42.jpeg",
+      "Name": "Япония. История и культура: от самураев до манги"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 295,
+      "Weight": 15,
+      "ItemId": 9303440,
+      "CategoryIds": [
+        3308
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3308,
+          255,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы"
+      ],
+      "Params": {
+        "Автор": "Лем С.",
+        "Like": "40",
+        "Dislike": "4",
+        "Bookmark": "208"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9303440",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/58/60/38/8.jpeg",
+      "Name": "Сумма технологии"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 655,
+      "Weight": 14,
+      "ItemId": 10472968,
+      "CategoryIds": [
+        3300
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3300,
+          253,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Средства массовой информации"
+      ],
+      "Params": {
+        "Автор": "Нюзум Э.",
+        "Like": "1",
+        "Dislike": "1",
+        "Bookmark": "5"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10472968",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/79/84/97/1.jpg",
+      "Name": "Пошумим. Как делать хитовые подкасты"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 336,
+      "Weight": 13,
+      "ItemId": 10470590,
+      "CategoryIds": [
+        3316
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3316,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Русский язык"
+      ],
+      "Params": {
+        "Автор": "Максатбекова А.М.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "4"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10470590",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/49/36/80.jpeg",
+      "Name": "Грамотным быть модно @ru_grammar"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 179,
+      "Weight": 12,
+      "ItemId": 9387335,
+      "CategoryIds": [
+        3298
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3298,
+          253,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Культурология"
+      ],
+      "Params": {
+        "Автор": "Хейзинга Й.",
+        "Like": "36",
+        "Dislike": "3",
+        "Bookmark": "245"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9387335",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/61/74/07/4.jpeg",
+      "Name": "Homo ludens. Человек играющий"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 416,
+      "Weight": 11,
+      "ItemId": 12360609,
+      "CategoryIds": [
+        3318
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3318,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Немецкий язык"
+      ],
+      "Params": {
+        "Автор": "Шипилова Е.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "1"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12360609",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/53/18/40.jpeg",
+      "Name": "Немецкий язык вместе с SpeakASAP. Выучи навсегда"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 146,
+      "Weight": 10,
+      "ItemId": 6779703,
+      "CategoryIds": [
+        3299
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3299,
+          253,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Культурное строительство"
+      ],
+      "Params": {
+        "Автор": "Силина, Мария Михайловна",
+        "Like": "5",
+        "Dislike": "0",
+        "Bookmark": "15"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6779703",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/33/80/50/4.jpeg",
+      "Name": "Музеи Мира книга, том 79, Музей Бенаки, Афины"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 922,
+      "Weight": 9,
+      "ItemId": 10315392,
+      "CategoryIds": [
+        3270
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3270,
+          3265,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Зоология"
+      ],
+      "Params": {
+        "Автор": "Матанцев А.Н.",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "30"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10315392",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/47/15/12.jpeg",
+      "Name": "Птицы России. Большая иллюстрированная энциклопедия"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 794,
+      "Weight": 8,
+      "ItemId": 7877937,
+      "CategoryIds": [
+        3257
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3257,
+          250,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Физическая химия. Химическая физика"
+      ],
+      "Params": {
+        "Автор": "Биловицкий М.В.",
+        "Like": "4",
+        "Dislike": "0",
+        "Bookmark": "34"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7877937",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/99/03/0.jpeg",
+      "Name": "ThoiSoi. Занимательная химия: кристаллы, газы и их соединения"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 129,
+      "Weight": 7,
+      "ItemId": 448910,
+      "CategoryIds": [
+        3317
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3317,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Английский язык"
+      ],
+      "Params": {
+        "Автор": "Пучкова Ю.Я.",
+        "Like": "16",
+        "Dislike": "0",
+        "Bookmark": "280"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=448910",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/69/35/29/3.jpeg",
+      "Name": "Страусёнок Хампти и его семья [= Humpty and His Family]"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 641,
+      "Weight": 6,
+      "ItemId": 6513803,
+      "CategoryIds": [
+        3208
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3208,
+          3201,
+          243,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Альтшуллер, Генрих Саулович",
+        "Like": "64",
+        "Dislike": "3",
+        "Bookmark": "457"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6513803",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/33/23/98/2.jpeg",
+      "Name": "Найти идею: Введение в ТРИЗ - теорию решения изобретательских задач"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 962,
+      "Weight": 5,
+      "ItemId": 10040791,
+      "CategoryIds": [
+        3302
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3302,
+          254,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Религии Древнего мира. Иудаизм"
+      ],
+      "Params": {
+        "Автор": "Экмекчян А.",
+        "Like": "34",
+        "Dislike": "1",
+        "Bookmark": "41"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10040791",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/68/15/22/7.jpg",
+      "Name": "Бхагавад Гита. Библия ариев. Первый том. С комментариями Арчи деви даси"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 712,
+      "Weight": 4,
+      "ItemId": 10967589,
+      "CategoryIds": [
+        3314
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3314,
+          258,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общие вопросы"
+      ],
+      "Params": {
+        "Автор": "Сарычева Л.",
+        "Like": "4",
+        "Dislike": "0",
+        "Bookmark": "58"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10967589",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/83/97/72/7.jpeg",
+      "Name": "Уступите место драме. Как писать интересно даже на скучные темы. Копирайтерам, журналистам, редакторам"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 701,
+      "Weight": 3,
+      "ItemId": 394102,
+      "CategoryIds": [
+        3266
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3266,
+          3265,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общая биология"
+      ],
+      "Params": {
+        "Автор": "Марков А.В.",
+        "Like": "135",
+        "Dislike": "5",
+        "Bookmark": "340"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=394102",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/64/31/37/6.jpeg",
+      "Name": "Рождение сложности. Эволюционная биология сегодня: неожиданные открытия и новые"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 701,
+      "Weight": 2,
+      "ItemId": 8273399,
+      "CategoryIds": [
+        3245
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3245,
+          3242,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Общенаучное знание и теории"
+      ],
+      "Params": {
+        "Автор": "Панчин А.Ю.",
+        "Like": "404",
+        "Dislike": "18",
+        "Bookmark": "1211"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8273399",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/64/30/42/2.jpeg",
+      "Name": "Защита от темных искусств"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 748,
+      "Weight": 1,
+      "ItemId": 10406605,
+      "CategoryIds": [
+        3311
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3311,
+          255,
+          242,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Отдельные философские науки"
+      ],
+      "Params": {
+        "Автор": "Рослинг Х.",
+        "Like": "14",
+        "Dislike": "1",
+        "Bookmark": "82"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10406605",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/79/82/03/1.jpg",
+      "Name": "Фактологичность. Десять причин наших заблуждений о мире - и почему все не так плохо, как кажется"
+    }
+  ]

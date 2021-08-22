@@ -1,0 +1,39 @@
+.header__top{
+    margin: 24px auto;
+    width: 1278px;
+    display: flex;
+    justify-content: space-between;
+}
+  
+  .header__top__content__logo{
+    width: 166px;
+    height: 40px;
+    background-image: url(../../assets/img/SHOPPER.png);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    cursor: pointer;
+    font-size: 12px;
+    font-size: 15px;
+    color: #605f5d;
+    font-weight: 400;
+    font-family: "Lato", sans-serif;
+}
+
+.header__bottom {
+    margin: 0 auto;
+    width: 1278px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__bottom a {
+    text-decoration: none;
+    color: #979696;
+}
+
+.header__bottom a:hover {
+    color: black;
+}

@@ -1,0 +1,1894 @@
+[
+    {
+      "OldPrice": 0,
+      "Price": 981,
+      "Weight": 47,
+      "ItemId": 5130241,
+      "CategoryIds": [
+        91
+      ],
+      "CategoryPathsToRoot": [
+        [
+          91,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Искусствоведение"
+      ],
+      "Params": {
+        "Автор": "Иттен И.",
+        "Like": "147",
+        "Dislike": "1",
+        "Bookmark": "1301"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=5130241",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/35/85/07.jpeg",
+      "Name": "Искусство цвета"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 123,
+      "Weight": 46,
+      "ItemId": 3301989,
+      "CategoryIds": [
+        3280
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3280,
+          3277,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Сольфеджио и диктанты"
+      ],
+      "Params": {
+        "Автор": "Калинина Г.Ф.",
+        "Like": "11",
+        "Dislike": "0",
+        "Bookmark": "244"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3301989",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/39/37/37.jpeg",
+      "Name": "Сольфеджио. Рабочая тетрадь. 4 класс"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 983,
+      "Weight": 45,
+      "ItemId": 340290,
+      "CategoryIds": [
+        2956
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2956,
+          98,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Техники и приемы"
+      ],
+      "Params": {
+        "Автор": "Ли, Николай Геннадьевич",
+        "Like": "474",
+        "Dislike": "14",
+        "Bookmark": "1454"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=340290",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/33/78/80/2.jpeg",
+      "Name": "Рисунок. Основы учебного академического рисунка"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1052,
+      "Weight": 44,
+      "ItemId": 7858972,
+      "CategoryIds": [
+        3275
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3275,
+          3273,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Творческий путь музыкантов и музыкальных коллективов"
+      ],
+      "Params": {
+        "Автор": "Князев А.С.",
+        "Like": "150",
+        "Dislike": "4",
+        "Bookmark": "466"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7858972",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/44/75/74/8.png",
+      "Name": "Король и Шут. Старая книга"
+    },
+    {
+      "OldPrice": 585,
+      "Price": 526,
+      "Weight": 43,
+      "ItemId": 10575733,
+      "CategoryIds": [
+        3276
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3276,
+          3273,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Мураками Х.",
+        "Like": "7",
+        "Dislike": "0",
+        "Bookmark": "56"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10575733",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/51/35/78.jpeg",
+      "Name": "Беседы о музыке с Сэйдзи Одзавой"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 851,
+      "Weight": 42,
+      "ItemId": 10484810,
+      "CategoryIds": [
+        2963
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2963,
+          104,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Кино и телевидение"
+      ],
+      "Params": {
+        "Автор": "Аркус Л.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "19"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10484810",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/33/91/89.jpeg",
+      "Name": "Бодров"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 3128,
+      "Weight": 41,
+      "ItemId": 6523313,
+      "CategoryIds": [
+        2909
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2909,
+          2908,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Детская художественная литература"
+      ],
+      "Params": {
+        "Автор": "Щерба Н.В.",
+        "Like": "442",
+        "Dislike": "7",
+        "Bookmark": "611"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6523313",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/31/87/47/2.jpg",
+      "Name": "Часодеи. Подарочный комплект из 6 книг"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 585,
+      "Weight": 40,
+      "ItemId": 6130394,
+      "CategoryIds": [
+        112
+      ],
+      "CategoryPathsToRoot": [
+        [
+          112,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Мода и история костюма"
+      ],
+      "Params": {
+        "Автор": "Грейвс, Лэйа Фэрран",
+        "Like": "12",
+        "Dislike": "0",
+        "Bookmark": "85"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6130394",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/25/26/38/3.jpeg",
+      "Name": "Маленькая книга Prada"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 123,
+      "Weight": 39,
+      "ItemId": 3302167,
+      "CategoryIds": [
+        3280
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3280,
+          3277,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Сольфеджио и диктанты"
+      ],
+      "Params": {
+        "Автор": "Калинина Г.Ф.",
+        "Like": "14",
+        "Dislike": "0",
+        "Bookmark": "382"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3302167",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/02/83/98.jpeg",
+      "Name": "Сольфеджио. Рабочая тетрадь. 3 класс"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 4190,
+      "Weight": 38,
+      "ItemId": 6267688,
+      "CategoryIds": [
+        2948
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2948,
+          2946,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Живопись, графика. Музеи мира"
+      ],
+      "Params": {
+        "Like": "178",
+        "Dislike": "3",
+        "Bookmark": "440"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6267688",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/26/79/85/2.png",
+      "Name": "Энциклопедия Marvel"
+    },
+    {
+      "OldPrice": 817,
+      "Price": 756,
+      "Weight": 37,
+      "ItemId": 8034519,
+      "CategoryIds": [
+        2962
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2962,
+          104,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Театр"
+      ],
+      "Params": {
+        "Автор": "Волков С.",
+        "Like": "5",
+        "Dislike": "0",
+        "Bookmark": "49"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8034519",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/51/64/08/2.jpg",
+      "Name": "Большой театр. Культура и политика. Новая история"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 981,
+      "Weight": 36,
+      "ItemId": 9368185,
+      "CategoryIds": [
+        94
+      ],
+      "CategoryPathsToRoot": [
+        [
+          94,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "История и теория искусств"
+      ],
+      "Params": {
+        "Автор": "Иттен И.",
+        "Like": "36",
+        "Dislike": "0",
+        "Bookmark": "378"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9368185",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/62/61/83/9.jpg",
+      "Name": "Искусство формы. Мой форкурс в Баухаузе и других школах"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1266,
+      "Weight": 35,
+      "ItemId": 9704224,
+      "CategoryIds": [
+        2931
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2931,
+          2921,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Юрченко О.",
+        "Like": "6",
+        "Dislike": "0",
+        "Bookmark": "67"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9704224",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/63/96/83/2.jpeg",
+      "Name": "Родословная книга \"Семейное древо\""
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1823,
+      "Weight": 34,
+      "ItemId": 13111156,
+      "CategoryIds": [
+        113
+      ],
+      "CategoryPathsToRoot": [
+        [
+          113,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Оружие"
+      ],
+      "Params": {
+        "Автор": "Лоадс М.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "2"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=13111156",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/65/95/60.jpg",
+      "Name": "Клинковое оружие: История. Дизайн. Искусство владения"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 591,
+      "Weight": 33,
+      "ItemId": 6858339,
+      "CategoryIds": [
+        96
+      ],
+      "CategoryPathsToRoot": [
+        [
+          96,
+          95,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Архитектура"
+      ],
+      "Params": {
+        "Автор": "Эллард, Колин ",
+        "Like": "85",
+        "Dislike": "11",
+        "Bookmark": "512"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6858339",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/34/88/22/5.jpeg",
+      "Name": "Среда обитания: Как архитектура влияет на наше поведение и самочувствие"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 830,
+      "Weight": 32,
+      "ItemId": 10502181,
+      "CategoryIds": [
+        91
+      ],
+      "CategoryPathsToRoot": [
+        [
+          91,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Искусствоведение"
+      ],
+      "Params": {
+        "Автор": "Четверикова А.В.",
+        "Like": "15",
+        "Dislike": "0",
+        "Bookmark": "103"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10502181",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/80/16/85/4.jpeg",
+      "Name": "Искусство для пацанчиков. По полочкам"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 2590,
+      "Weight": 31,
+      "ItemId": 10282658,
+      "CategoryIds": [
+        2957
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2957,
+          98,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Музеи мира: альбомы"
+      ],
+      "Params": {
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "0"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10282658",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/74/45/86/0.jpeg",
+      "Name": "Ангелы в искусстве ХХ-ХХI века"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1580,
+      "Weight": 30,
+      "ItemId": 9387767,
+      "CategoryIds": [
+        97
+      ],
+      "CategoryPathsToRoot": [
+        [
+          97,
+          95,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Интерьер. Дизайн"
+      ],
+      "Params": {
+        "Автор": "Стармер А.",
+        "Like": "7",
+        "Dislike": "0",
+        "Bookmark": "54"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9387767",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/61/74/01/8.jpeg",
+      "Name": "Любимый цвет: Подбор цветовых решений для жизни"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 669,
+      "Weight": 29,
+      "ItemId": 7891087,
+      "CategoryIds": [
+        2956
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2956,
+          98,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Техники и приемы"
+      ],
+      "Params": {
+        "Автор": "Вудкок Д.",
+        "Like": "28",
+        "Dislike": "0",
+        "Bookmark": "137"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7891087",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/45/54/02/8.jpeg",
+      "Name": "Цветовой квест. ГОРОДА. 30 непростых картин по номерам"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1089,
+      "Weight": 28,
+      "ItemId": 9779543,
+      "CategoryIds": [
+        2912
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2912,
+          2908,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Памятные альбомы"
+      ],
+      "Params": {
+        "Автор": "Евдокимова А.В.",
+        "Like": "2",
+        "Dislike": "1",
+        "Bookmark": "16"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9779543",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/42/99/24.jpeg",
+      "Name": "Мои школьные годы. 1-11 класс. Портфолио школьника. Альбом для записей, фотографий и памятных мелочей."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 748,
+      "Weight": 27,
+      "ItemId": 8840339,
+      "CategoryIds": [
+        3279
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3279,
+          3277,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Обучение игре на музыкальных инструментах"
+      ],
+      "Params": {
+        "Автор": "Флеминг Т.",
+        "Like": "9",
+        "Dislike": "0",
+        "Bookmark": "81"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8840339",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/55/91/66/2.jpeg",
+      "Name": "Укулеле для начинающих"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 539,
+      "Weight": 26,
+      "ItemId": 3214470,
+      "CategoryIds": [
+        3281
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3281,
+          3277,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Шорникова, Мария Исааковна",
+        "Like": "4",
+        "Dislike": "0",
+        "Bookmark": "84"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3214470",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/31/94/89/9.jpeg",
+      "Name": "Музыкальная литература: развитие западно-европейской музыки: второй год обучения: учеб. пособ. + CD / 18-е изд."
+    },
+    {
+      "OldPrice": 0,
+      "Price": 2024,
+      "Weight": 25,
+      "ItemId": 10048690,
+      "CategoryIds": [
+        2904
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2904,
+          2897,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Фантастика"
+      ],
+      "Params": {
+        "Автор": "Дуксин А.",
+        "Like": "24",
+        "Dislike": "1",
+        "Bookmark": "126"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10048690",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/44/34/98.jpeg",
+      "Name": "SCP Foundation. Secure. Contain. Protect. Книга 3"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 2896,
+      "Weight": 24,
+      "ItemId": 9335358,
+      "CategoryIds": [
+        2954
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2954,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Философия и религия"
+      ],
+      "Params": {
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "11"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=9335358",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/58/74/46/2.jpeg",
+      "Name": "Библия. Книги Священного Писания Ветхого и Нового Завета. 500 гравюр европейских художников и цветны"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 280,
+      "Weight": 23,
+      "ItemId": 450790,
+      "CategoryIds": [
+        2955
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2955,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Миниатюрные издания"
+      ],
+      "Params": {
+        "Автор": "Пушкин А.С.",
+        "Like": "12",
+        "Dislike": "1",
+        "Bookmark": "16"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=450790",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/19/57/80.jpeg",
+      "Name": "Мой Пушкин. Стихотворения, миниатюра"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 851,
+      "Weight": 22,
+      "ItemId": 10330263,
+      "CategoryIds": [
+        2961
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2961,
+          104,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Хореография (балет, танец)"
+      ],
+      "Params": {
+        "Автор": "Хаас Ж.Г.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "20"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10330263",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/47/58/26.jpeg",
+      "Name": "Анатомия танца"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1166,
+      "Weight": 21,
+      "ItemId": 10496880,
+      "CategoryIds": [
+        2963
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2963,
+          104,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Кино и телевидение"
+      ],
+      "Params": {
+        "Автор": "Добротворский С.",
+        "Like": "3",
+        "Dislike": "0",
+        "Bookmark": "15"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10496880",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/80/12/40/9.jpeg",
+      "Name": "Кино на ощупь"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1354,
+      "Weight": 20,
+      "ItemId": 10193438,
+      "CategoryIds": [
+        105
+      ],
+      "CategoryPathsToRoot": [
+        [
+          105,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Фотография"
+      ],
+      "Params": {
+        "Автор": "Келби С.",
+        "Like": "2",
+        "Dislike": "0",
+        "Bookmark": "34"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10193438",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/73/13/17/9.jpeg",
+      "Name": "Обработка фотографий в Lightroom Classic: быстрые способы достижения отличных результатов"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 3160,
+      "Weight": 19,
+      "ItemId": 10966155,
+      "CategoryIds": [
+        2901
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2901,
+          2897,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Биографиии мемуары"
+      ],
+      "Params": {
+        "Автор": "Левинг Ю.",
+        "Like": "1",
+        "Dislike": "0",
+        "Bookmark": "6"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10966155",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/85/05/67/7.jpg",
+      "Name": "Иосиф Бродский в Риме. Путеводитель"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 815,
+      "Weight": 18,
+      "ItemId": 3578379,
+      "CategoryIds": [
+        3274
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3274,
+          3273,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Теория и история музыки. Музыковедение"
+      ],
+      "Params": {
+        "Автор": "Вахромеев В.",
+        "Like": "8",
+        "Dislike": "0",
+        "Bookmark": "94"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3578379",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/37/49/61.jpeg",
+      "Name": "Элементарная теория музыки"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1525,
+      "Weight": 17,
+      "ItemId": 10252554,
+      "CategoryIds": [
+        2922
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2922,
+          2921,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Кулинария и напитки"
+      ],
+      "Params": {
+        "Автор": "Ландмен Р.",
+        "Like": "7",
+        "Dislike": "0",
+        "Bookmark": "48"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10252554",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/73/83/50/2.jpg",
+      "Name": "Большая книга пекаря: Хлеб, бриоши, выпечка. Учимся готовить шедевры"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1559,
+      "Weight": 16,
+      "ItemId": 7936545,
+      "CategoryIds": [
+        2964
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2964,
+          104,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Магни Л.",
+        "Like": "7",
+        "Dislike": "0",
+        "Bookmark": "83"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7936545",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/45/60/44/8.jpeg",
+      "Name": "Легендарные фотографы современности и их шедевры"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 414,
+      "Weight": 15,
+      "ItemId": 8860203,
+      "CategoryIds": [
+        2958
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2958,
+          98,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Бэсфорд Д.",
+        "Like": "35",
+        "Dislike": "0",
+        "Bookmark": "139"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8860203",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/37/98/8.jpeg",
+      "Name": "Рождественские чудеса. Книга для творчества и вдохновения"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1052,
+      "Weight": 14,
+      "ItemId": 10398201,
+      "CategoryIds": [
+        3275
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3275,
+          3273,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Творческий путь музыкантов и музыкальных коллективов"
+      ],
+      "Params": {
+        "Автор": "Стингрей Д.",
+        "Like": "10",
+        "Dislike": "0",
+        "Bookmark": "62"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10398201",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/79/35/85/5.jpg",
+      "Name": "Русский рок История. Фотографии. Интервью. Документы"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 309,
+      "Weight": 13,
+      "ItemId": 404666,
+      "CategoryIds": [
+        2896
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2896,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Книги–открытки"
+      ],
+      "Params": {
+        "Автор": "Грив Б.Т.",
+        "Like": "11",
+        "Dislike": "0",
+        "Bookmark": "24"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=404666",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/58/58/21/7.jpg",
+      "Name": "Когда тебе грустно... Как поднять себе настроение"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 870,
+      "Weight": 12,
+      "ItemId": 10502271,
+      "CategoryIds": [
+        3284
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3284,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Нотные издания"
+      ],
+      "Params": {
+        "Автор": "Мирек А.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "1"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=10502271",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/80/17/19/1.jpg",
+      "Name": "Самоучитель игры на аккордеоне"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 2548,
+      "Weight": 11,
+      "ItemId": 7401770,
+      "CategoryIds": [
+        90
+      ],
+      "CategoryPathsToRoot": [
+        [
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Подарочные и миниатюрные издания"
+      ],
+      "Params": {
+        "Автор": "Толстой Л.Н.",
+        "Like": "39",
+        "Dislike": "1",
+        "Bookmark": "22"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7401770",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/42/89/55/4.jpg",
+      "Name": "Анна Каренина"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 613,
+      "Weight": 10,
+      "ItemId": 7401563,
+      "CategoryIds": [
+        2962
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2962,
+          104,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Театр"
+      ],
+      "Params": {
+        "Автор": "Станиславский К.С.",
+        "Like": "25",
+        "Dislike": "0",
+        "Bookmark": "224"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7401563",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/64/30/65/8.jpeg",
+      "Name": "Полный курс актерского мастерства"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 378,
+      "Weight": 9,
+      "ItemId": 6899979,
+      "CategoryIds": [
+        2957
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2957,
+          98,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Музеи мира: альбомы"
+      ],
+      "Params": {
+        "Автор": "Чудова А.В.",
+        "Like": "40",
+        "Dislike": "1",
+        "Bookmark": "139"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6899979",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/56/66/68/1.jpeg",
+      "Name": "Винсент Ван Гог"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 2309,
+      "Weight": 8,
+      "ItemId": 637279,
+      "CategoryIds": [
+        2952
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2952,
+          2946,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Музыка"
+      ],
+      "Params": {
+        "Автор": "Гроу К.",
+        "Like": "25",
+        "Dislike": "1",
+        "Bookmark": "39"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=637279",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/11/18/39/83.jpeg",
+      "Name": "Heavy metal. От тяжелого рока до экстремального металла"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1540,
+      "Weight": 7,
+      "ItemId": 12008357,
+      "CategoryIds": [
+        96
+      ],
+      "CategoryPathsToRoot": [
+        [
+          96,
+          95,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Архитектура"
+      ],
+      "Params": {
+        "Автор": "Пода В.Ю.",
+        "Like": "11",
+        "Dislike": "0",
+        "Bookmark": "220"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=12008357",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/10/14/55/17.jpeg",
+      "Name": "Где бьется сердце Петербурга? Доходные дома в историях и фотографиях"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 4156,
+      "Weight": 6,
+      "ItemId": 6635993,
+      "CategoryIds": [
+        2909
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2909,
+          2908,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Детская художественная литература"
+      ],
+      "Params": {
+        "Автор": "Ролинг, Джоан Кэтлин",
+        "Like": "1567",
+        "Dislike": "211",
+        "Bookmark": "550"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=6635993",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/32/57/19/1.jpeg",
+      "Name": "Гарри Поттер. Полное собрание (комплект из 7 книг в футляре)"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 109,
+      "Weight": 5,
+      "ItemId": 3302071,
+      "CategoryIds": [
+        3280
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3280,
+          3277,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Сольфеджио и диктанты"
+      ],
+      "Params": {
+        "Автор": "Калинина Г.Ф.",
+        "Like": "14",
+        "Dislike": "0",
+        "Bookmark": "199"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3302071",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/23/54/43/4.jpeg",
+      "Name": "Сольфеджио. Рабочая тетрадь. 5 класс"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 4090,
+      "Weight": 4,
+      "ItemId": 670671,
+      "CategoryIds": [
+        2929
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2929,
+          2921,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Туризм и путешествия"
+      ],
+      "Params": {
+        "Автор": "Львова И.,ред.",
+        "Like": "10",
+        "Dislike": "0",
+        "Bookmark": "52"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=670671",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/43/02/41/6.jpg",
+      "Name": "Санктъ-Петербургъ. Прошлое и настоящее : альбом"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 516,
+      "Weight": 3,
+      "ItemId": 3218121,
+      "CategoryIds": [
+        3281
+      ],
+      "CategoryPathsToRoot": [
+        [
+          3281,
+          3277,
+          3272,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Другие издания"
+      ],
+      "Params": {
+        "Автор": "Шорникова, Мария Исааковна",
+        "Like": "6",
+        "Dislike": "0",
+        "Bookmark": "49"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=3218121",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/32/52/63/3.jpeg",
+      "Name": "Музыкальная литература : русская музыка ХХ века : четвертый год обучения : учеб. пособие + СD-диск"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 1683,
+      "Weight": 2,
+      "ItemId": 8702113,
+      "CategoryIds": [
+        2930
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2930,
+          2921,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Эзотерика"
+      ],
+      "Params": {
+        "Автор": "Abbey C.",
+        "Like": "0",
+        "Dislike": "0",
+        "Bookmark": "10"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=8702113",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/54/30/48/1.jpeg",
+      "Name": "Таро Аввалон, The Wonderland Tarot Таро Чудес (карты на англ. яз. в жестяной коробке) (ПИ)"
+    },
+    {
+      "OldPrice": 0,
+      "Price": 3442,
+      "Weight": 1,
+      "ItemId": 7167880,
+      "CategoryIds": [
+        2915
+      ],
+      "CategoryPathsToRoot": [
+        [
+          2915,
+          2914,
+          90,
+          88,
+          2
+        ]
+      ],
+      "Regions": null,
+      "CategoryNames": [
+        "Внешность, стиль, мода и этикет"
+      ],
+      "Params": {
+        "Автор": "Крыгина, Елена Александровна",
+        "Like": "118",
+        "Dislike": "10",
+        "Bookmark": "616"
+      },
+      "GroupId": null,
+      "StockId": null,
+      "Size": null,
+      "Color": null,
+      "Algorithm": "p",
+      "BuyUrl": null,
+      "Vendor": null,
+      "Description": "",
+      "TypePrefix": null,
+      "Model": null,
+      "Url": "https://www.bookvoed.ru/book?id=7167880",
+      "PictureUrl": "https://www.bookvoed.ru/files/1377/37/64/30/8.jpg",
+      "Name": "Макияж"
+    }
+  ]
