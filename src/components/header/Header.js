@@ -1,18 +1,13 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { useHistory, Link } from 'react-router-dom'
-import { ButtonGroup, Avatar, Fab, Button } from '@material-ui/core'
+import { ButtonGroup, Avatar, Fab } from '@material-ui/core'
 import { Favorite, ShoppingBasket } from '@material-ui/icons'
 import Routes from '../../routes'
 import './Header.css'
 
 const Header = () => {
-  const [isOpenModal, setIsOpenModal] = useState(false)
   const history = useHistory()
   const categories = Routes.find((route) => route.name === 'Categories').subRoutes
-
-  const handleIsOpenModal = () => {
-    setIsOpenModal(!isOpenModal)
-  }
 
   const openPage = (namePage) => {
     const path = Routes.find((route) => route.name === namePage).path

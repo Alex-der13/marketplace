@@ -1,21 +1,19 @@
-// Books categories
-
 const Routes = [
   {
     name: 'HomePage',
-    path: '/home',
+    path: '/home'
   },
   {
     name: 'Profile',
-    path: '/profile',
+    path: '/profile'
   },
   {
     name: 'Basket',
-    path: '/basket',
+    path: '/basket'
   },
   {
     name: 'Favorites',
-    path: '/favorites',
+    path: '/favorites'
   },
   {
     name: 'Categories',
@@ -24,30 +22,30 @@ const Routes = [
       {
         name: 'Arts',
         rusName: 'Искусство',
-        path: '/categories/arts'
+        path: '/category/arts'
       },
       {
         name: 'Business and economy',
         rusName: 'Бизнес и экономика',
-        path: '/categories/business_economy'
+        path: '/category/business_economy'
       },
       {
         name: 'Information technology',
         rusName: 'Информационные технологии',
-        path: '/categories/IT'
+        path: '/category/it'
       },
       {
         name: 'Literature for children',
         rusName: 'Литература для детей',
-        path: '/categories/children'
+        path: '/category/children'
       },
       {
         name: 'Scientific literature',
         rusName: 'Научная литератора',
-        path: '/categories/scientific'
+        path: '/category/scientific'
       }
     ]
   }
 ]
 
-export default Routes;
+export default Routes

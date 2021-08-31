@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Header from './components/header'
 import { Home, Basket } from './screens'
 import {
@@ -6,26 +6,36 @@ import {
   Switch,
   Route
 } from 'react-router-dom'
-
-const list = [
-  { name: '1', sullpier: '1', price: 1, piece: 1 },
-  { name: '2', sullpier: '2', price: 2, piece: 1 },
-  { name: '3', sullpier: '3', price: 3, piece: 1 }
-
-]
-
-const test = 2
+import Category from './screens/category/Category'
 
 const App = () => {
+  const [basketList, setBasketList] = useState([])
+
+  const addBasket = (product) => {
+    setBasketList([...basketList, product])
+  }
+
+  const deleteFromBasket = (productId) => {
+    setBasketList(basketList.filter((item) => item.ItemId !== productId))
+  }
+
   return (
     <Router>
       <Header />
       <Switch>
-        <Route path="/" exact>
+        <Route path="/home" exact>
           <Home />
         </Route>
         <Route path="/basket">
-          <Basket list={list} />
+          <Basket
+            basketList={basketList}
+            deleteFromBasket = {deleteFromBasket}
+          />
+        </Route>
+        <Route path="/category/:name">
+          <Category
+            addBasket={addBasket}
+          />
         </Route>
       </Switch>
     </Router>
