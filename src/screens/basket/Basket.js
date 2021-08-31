@@ -1,61 +1,36 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Typography } from '@material-ui/core'
 import './Basket.css'
 
-const Basket = ({ list }) => {
-  const [visibleFlag, setVisibleFlag] = useState(true)
-
-  const changeVisibleOnTrue = () => {
-    setVisibleFlag(!visibleFlag)
-  }
-
-  const Card = ({ name, sullpier, price, piece }) => (
+const Basket = ({ basketList, deleteFromBasket }) => {
+  const totalPrice = basketList.reduce((a, item) => a + item.Price, 0)
+  const Card = ({ Name, PictureUrl, Price, ItemId }) => (
     <div className="basket__list__card">
-      <div className="basket__list__card__delete"></div>
-      <div className="basket__list__card__img"></div>
+      <div className="basket__list__card__delete" onClick={() => deleteFromBasket(ItemId)}></div>
+      <img src={PictureUrl} alt="book" width="80" height="100" />
       <div className="basket__list__card__name">
-        <div className="basket__list__card__name__product_name">{name}</div>
-        <div className="basket__list__card__name__supplier_name">{sullpier}</div>
+        <div className="basket__list__card__name__product_name">{Name}</div>
+        <div className="basket__list__card__name__supplier_name"></div>
       </div>
-      <div className="basket__list__card__price">${price}</div>
-      <div className="basket__list__card__quantity_counter">
-       <div onMouseEnter={changeVisibleOnTrue} onMouseOut={changeVisibleOnTrue} className="basket__list__card__quantity_counter">
-          <div className="basket__list__card__quantity_counter__less" style={{
-            display: `${visibleFlag ? 'none' : 'block'}`
-          }}>
-          </div>
-          <input className="basket__list__card__quantity_counter__quantity" defaultValue={`${piece}`}/>
-          <div className="basket__list__card__quantity_counter__more" style={{
-            display: `${visibleFlag ? 'none' : 'block'}`
-          }}>
-          </div>
-        </div>
-      </div>
-      <div className="basket__list__card__total_price">$28.99</div>
+      <div className="basket__list__card__price">{Price} руб.</div>
     </div>
   )
 
   return (
         <div className="basket">
             <div className="basket__list">
-            {list.map((item, index) =>
+            {basketList.map((item, index) =>
               <Card
-              key={index}
-              name = {item.name}
-              supplier = {item.supplier}
-              price={item.price}
-              piece={item.piece}
+                key={index}
+                ItemId={item.ItemId}
+                Name={item.Name}
+                PictureUrl={item.PictureUrl}
+                Price={item.Price}
               />)}
             </div>
             <div className="basket__total">
               <Typography variant="body1">
-                Subtotal: $145.84
-              </Typography>
-              <Typography variant="body1">
-                Shipping: $5.00
-              </Typography>
-              <Typography variant="body1">
-              Total Amount: $254.84
+                Итого: {totalPrice} руб.
               </Typography>
             </div>
         </div>
