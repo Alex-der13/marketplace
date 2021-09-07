@@ -1,20 +1,20 @@
-import React, { useState } from 'react'
-import './Login.css'
-import { Modal } from '@material-ui/core'
+import React, { useState } from 'react';
+import './Login.css';
+import { Modal } from '@material-ui/core';
 
 const Login = ({ isOpenModal, handleIsOpenModal }) => {
-  const [loginInput, setLoginInput] = useState('Username / Email Address')
-  const [passwordInput, setPasswordInput] = useState('Password')
+    const [loginInput, setLoginInput] = useState('Username / Email Address');
+    const [passwordInput, setPasswordInput] = useState('Password');
 
-  const changeLoginInput = () => {
-    setLoginInput('')
-  }
+    const changeLoginInput = () => {
+        setLoginInput('');
+    };
 
-  const changePasswordInput = () => {
-    setPasswordInput('')
-  }
+    const changePasswordInput = () => {
+        setPasswordInput('');
+    };
 
-  return (
+    return (
         <Modal
             open={isOpenModal}
             onClose={handleIsOpenModal}
@@ -22,27 +22,26 @@ const Login = ({ isOpenModal, handleIsOpenModal }) => {
             aria-describedby="simple-modal-description"
         >
             <div className="login">
-                <div onClick={handleIsOpenModal} className="login__body__exit">[img] ×</div>
+                <div onClick={handleIsOpenModal} className="login__body__exit">
+                    [img] ×
+                </div>
                 <div className="login__body">
                     <div className="login__body__logo">Smart marketplace</div>
                     <input
                         onClick={changeLoginInput}
-                        onChange={e => setLoginInput(e.target.value)}
+                        onChange={(e) => setLoginInput(e.target.value)}
                         value={loginInput}
-                        className="login__body__username_input">
-                    </input>
+                        className="login__body__username_input"
+                    ></input>
                     <input
                         onClick={changePasswordInput}
-                        onChange={e => setPasswordInput(e.target.value)}
+                        onChange={(e) => setPasswordInput(e.target.value)}
                         value={passwordInput}
-                        className="login__body__password">
-                    </input>
+                        className="login__body__password"
+                    ></input>
                     <div className="login__body__keep_forgot">
                         <div className="login__body__keep_forgot__keep">
-                            <input
-                                type="checkbox"
-                                className="login__body__keep_forgot__keep__checkbox">
-                            </input>
+                            <input type="checkbox" className="login__body__keep_forgot__keep__checkbox"></input>
                             <div className="login__body__keep_forgot__keep__text">Keep me Logged in</div>
                         </div>
                         <div className="login__body__keep_forgot__forgot">Forgot Password?</div>
@@ -62,9 +61,9 @@ const Login = ({ isOpenModal, handleIsOpenModal }) => {
                         <div className="login__body__register__register_btn">Register</div>
                     </div>
                 </div>
-            </div >
+            </div>
         </Modal>
-  )
-}
+    );
+};
 
-export default Login
+export default Login;
