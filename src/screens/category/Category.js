@@ -1,34 +1,47 @@
-import React, { useState, useEffect } from 'react'
-import { CircularProgress, Button } from '@material-ui/core'
-import { useParams } from 'react-router-dom'
-import './Category.css'
+import React, { useState, useEffect } from 'react';
+import { CircularProgress } from '@material-ui/core';
+import { useParams } from 'react-router-dom';
+import CardAll from '../../components/card';
+import './Category.css';
 
-const Category = ({ addBasket }) => {
-  const [data, setData] = useState([])
-  const params = useParams()
+const Category = ({ addBasket, changeFavoriteList, favorites }) => {
+    const [data, setData] = useState([]);
+    const params = useParams();
 
-  useEffect(() => {
-    fetch(`http://localhost:3000/${params.name}`)
-      .then(response => response.json())
-      .then(res => setData(res))
-  }, [params])
+    useEffect(() => {
+        fetch(`http://localhost:3000/${params.name || 'arts'}`)
+            .then((response) => response.json())
+            .then((res) => setData(res));
+    }, [params]);
 
-  if (!data.length) {
-    return <CircularProgress />
-  }
+    if (!data.length) {
+        return <CircularProgress />;
+    }
 
-  return (
-    <div>
-      {data.map((category) => (
-        <div key={category.ItemId}>
-          <div>{category.Name}</div>
-          <div>{category.Price}</div>
-          <img src={category.PictureUrl} alt="book" width="240" height="320" />
-          <Button variant="contained" color="primary" onClick={() => addBasket(category)}>Купить</Button>
+    return (
+        <div
+            style={{
+                margin: '0 auto',
+                width: '100%',
+                display: 'flex',
+                flexWrap: 'wrap',
+                justifyContent: 'space-between',
+            }}
+        >
+            {data.map((category) => {
+                const isInFavorite = favorites.some((item) => item.ItemId === category.ItemId);
+                return (
+                    <CardAll
+                        key={category.ItemId}
+                        isInFavorite={isInFavorite}
+                        category={category}
+                        addBasket={addBasket}
+                        changeFavoriteList={changeFavoriteList}
+                    />
+                );
+            })}
         </div>
-      ))}
-    </div>
-  )
-}
+    );
+};
 
-export default Category
+export default Category;

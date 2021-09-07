@@ -1,6 +1,6 @@
 .header__top{
     margin: 24px auto;
-    width: 1278px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
 }
@@ -24,7 +24,7 @@
 
 .header__bottom {
     margin: 0 auto;
-    width: 1278px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
 }
