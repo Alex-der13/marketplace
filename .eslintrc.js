@@ -14,10 +14,11 @@ module.exports = {
     ],
     plugins: ['prettier'],
     rules: {
-        'prettier/prettier': 'warn',
+        'prettier/prettier': 0,
         'arrow-body-style': 'off',
         'prefer-arrow-callback': 'off',
         'react/prop-types': 0,
         'no-unused-vars': 'warn',
+        /* 'semi': 'always', */
     },
 };

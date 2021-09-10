@@ -11,3 +11,11 @@
     background: linear-gradient(90deg, transparent 0, #fff 100%);
     content: "";
 }
+
+.card_favorite_btn:hover{
+cursor: pointer;
+}
+
+.card_buy_btn.action{
+    
+}

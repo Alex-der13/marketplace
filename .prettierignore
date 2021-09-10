@@ -4,3 +4,4 @@ coverage
 jest.json
 CHANGELOG.md
 build
+config
