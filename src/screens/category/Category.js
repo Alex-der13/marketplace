@@ -4,10 +4,9 @@ import { useParams } from 'react-router-dom';
 import CardAll from '../../components/card';
 import './Category.css';
 
-const Category = ({ addBasket, changeFavoriteList, favorites }) => {
+const Category = ({ basketList, addBasket, changeFavoriteList, favorites }) => {
     const [data, setData] = useState([]);
     const params = useParams();
-
     useEffect(() => {
         fetch(`http://localhost:3000/${params.name || 'arts'}`)
             .then((response) => response.json())
@@ -30,10 +29,12 @@ const Category = ({ addBasket, changeFavoriteList, favorites }) => {
         >
             {data.map((category) => {
                 const isInFavorite = favorites.some((item) => item.ItemId === category.ItemId);
+                const isInBasket = basketList.some((item) => item.ItemId === category.ItemId);
                 return (
                     <CardAll
                         key={category.ItemId}
                         isInFavorite={isInFavorite}
+                        isInBasket={isInBasket}
                         category={category}
                         addBasket={addBasket}
                         changeFavoriteList={changeFavoriteList}

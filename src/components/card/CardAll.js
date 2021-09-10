@@ -3,8 +3,8 @@ import { Bookmark } from '@material-ui/icons';
 import { Button } from '@material-ui/core';
 import './Card.css';
 
-const CardAll = ({ addBasket, changeFavoriteList, category, isInFavorite }) => {
-    const { Name, Params, Price, PictureUrl } = category;
+const CardAll = ({ addBasket, isInBasket, changeFavoriteList, category, isInFavorite }) => {
+    const { Name, Params:{Author}, Price, PictureUrl } = category;
 
     return (
         <div
@@ -30,7 +30,7 @@ const CardAll = ({ addBasket, changeFavoriteList, category, isInFavorite }) => {
                 <img src={PictureUrl} alt="book" style={{ margin: '0 auto' }} />
             </div>
             <div className="card_title">{Name}</div>
-            <div style={{ color: '#9c9c9c' }}>{Params.Author}</div>
+            <div style={{ color: '#9c9c9c' }}>{Author}</div>
             <div style={{ fontWeight: 'bold' }}>{Price} ₽</div>
             <div
                 style={{
@@ -38,10 +38,10 @@ const CardAll = ({ addBasket, changeFavoriteList, category, isInFavorite }) => {
                     justifyContent: 'space-between',
                 }}
             >
-                <Button variant="contained" color="primary" onClick={() => addBasket(category)}>
-                    Купить
+                <Button disabled={isInBasket} className='card_buy_btn' variant="contained" color="primary" onClick={() => addBasket(category)}>
+                    {isInBasket? 'В корзине':'Купить' }
                 </Button>
-                <div onClick={() => changeFavoriteList(category)}>
+                <div className="card_favorite_btn" onClick={() => changeFavoriteList(category)}>
                     <Bookmark color={isInFavorite ? 'primary' : 'disabled'} />
                 </div>
             </div>
