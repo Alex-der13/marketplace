@@ -7,8 +7,6 @@
     margin-top: 70px;
     border-top: 1px solid #c8c8c8;
     border-bottom: 1px solid #c8c8c8;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .favorite__list__card{

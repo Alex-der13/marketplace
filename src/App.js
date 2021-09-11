@@ -7,11 +7,11 @@ import Category from './screens/category/Category';
 const App = () => {
     const [basketList, setBasketList] = useState([]);
     const [favoriteList, setFavoriteList] = useState([]);
-    
+
     const addBasket = (product) => {
         setBasketList([...basketList, product]);
     };
-    
+
     const deleteFromBasket = (productId) => {
         setBasketList(basketList.filter((item) => item.ItemId !== productId));
     };
@@ -34,7 +34,6 @@ const App = () => {
                     <Route path="/" exact>
                         <Category
                             favorites={favoriteList}
-                            basketList={basketList}
                             addBasket={addBasket}
                             changeFavoriteList={changeFavoriteList}
                         />
@@ -48,7 +47,6 @@ const App = () => {
                     <Route path="/category/:name">
                         <Category
                             favorites={favoriteList}
-                            basketList={basketList}
                             addBasket={addBasket}
                             changeFavoriteList={changeFavoriteList}
                         />

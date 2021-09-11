@@ -16,7 +16,6 @@
     font-family: "Lato";
     display: flex;
     align-items: center;
-    justify-content: space-between;
 }
 
 .basket__list__card__delete{
@@ -24,11 +23,6 @@
     height: 15px;
     background-image: url(../../assets/img/cross.png);
     background-repeat: no-repeat;
-    background-size: 15px;
-}
-
-.basket__list__card__delete:hover{
-    cursor: pointer;
 }
 
 .basket__list__card__img{

@@ -6,11 +6,10 @@
 }
   
   .header__top__content__logo{
-    width: 300px;
-    height: 80px;
-    background-image: url(../../assets/img/logo.png);
+    width: 166px;
+    height: 40px;
+    background-image: url(../../assets/img/SHOPPER.png);
     background-repeat: no-repeat;
-    background-size: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
