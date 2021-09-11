@@ -1,20 +1,25 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { CircularProgress } from '@material-ui/core';
 import { useParams } from 'react-router-dom';
 import CardAll from '../../components/card';
+import useActions from '../../store/actions';
+import { useSelector } from 'react-redux';
 import './Category.css';
 
-const Category = ({ addBasket, changeFavoriteList, favorites }) => {
-    const [data, setData] = useState([]);
+const Category = ({ basketList, addBasket, changeFavoriteList, favorites }) => {
+
+    const {data, loading, error} = useSelector(({books})=>books)
     const params = useParams();
+    const {getBooks} = useActions()
 
     useEffect(() => {
-        fetch(`http://localhost:3000/${params.name || 'arts'}`)
+        /* fetch(`http://localhost:3000/${params.name || 'arts'}`)
             .then((response) => response.json())
-            .then((res) => setData(res));
+            .then((res) => setData(res)); */
+            getBooks()
     }, [params]);
 
-    if (!data.length) {
+    if (loading) {
         return <CircularProgress />;
     }
 
@@ -25,7 +30,7 @@ const Category = ({ addBasket, changeFavoriteList, favorites }) => {
                 width: '100%',
                 display: 'flex',
                 flexWrap: 'wrap',
-                justifyContent: 'space-between',
+                justifyContent: 'space-between'
             }}
         >
             {data.map((category) => {
