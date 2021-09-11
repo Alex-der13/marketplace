@@ -1,0 +1,58 @@
+.basket{
+    max-width: 100%;
+    margin: 0  auto;
+    .cards_list{
+        margin-top: 70px;
+        border-top: 1px solid #c8c8c8;
+        border-bottom: 1px solid #c8c8c8;
+        .card{
+            margin-top: 18px;
+            margin-bottom: 18px;
+            height: 100px;
+            font-family: "Lato";
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .img{
+                margin-left: 20px;
+                cursor: pointer;
+            }
+            .name_block{
+                margin-left: 20px;
+                width: 300px;
+                height: 35px;
+                display: flex;
+                flex-direction: column;
+                cursor: pointer;
+                .name{
+                    color: #151515;
+                    font-weight: 600;
+                }
+                .author{
+                    font-size: 14px;
+                    color: #747473;
+                    font-weight: 600;
+                }
+            }
+            .price{
+                margin-left: 20px;
+                width: 100px;
+                color: #747473;
+                font-weight: 500;
+            }
+            .delete{
+                margin-right: 20px;
+                width: 15px;
+                height: 15px;
+                background-image: url(../../assets/img/cross.png);
+                background-repeat: no-repeat;
+                background-size: 15px;
+                cursor: pointer;
+            }
+        }
+    }
+    .total{
+        margin-top: 30px;
+        text-align: right;
+    }
+}

@@ -1,0 +1,40 @@
+.Card {
+  margin: 50px 10px 10px;
+  width: 160px;
+  height: 360px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .img_block {
+    margin-bottom: 10px;
+    width: 130px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    img {
+      margin: 0 auto;
+    }
+  }
+
+  .card_title {
+    height: 45px;
+    overflow: hidden;
+  }
+
+  .buttons_block {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .card_title.after{
+      position: absolute;
+      right: 0;
+      height: 100%;
+      width: 50px;
+      background: linear-gradient(90deg, transparent 0, #fff 100%);
+      content: "";
+  }
+}
