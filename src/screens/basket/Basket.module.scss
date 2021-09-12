@@ -1,6 +1,10 @@
 .basket{
     max-width: 100%;
     margin: 0  auto;
+    .title{
+        font-size: 50px;
+        font-weight: bold;
+    }
     .cards_list{
         margin-top: 70px;
         border-top: 1px solid #c8c8c8;

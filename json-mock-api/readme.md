@@ -1,0 +1,1 @@
+run web server: json-server --watch src/db.json //in file json-mock-api

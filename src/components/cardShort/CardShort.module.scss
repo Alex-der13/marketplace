@@ -15,26 +15,29 @@
     justify-content: flex-end;
 
     img {
+      width: 150px;
+      height: 100%;
       margin: 0 auto;
+      cursor: pointer;
+      background-size: cover;
     }
   }
 
   .card_title {
     height: 45px;
     overflow: hidden;
+    cursor: pointer;
+  }
+
+  .card_author{
+    color: #9c9c9c;
   }
 
   .buttons_block {
     display: flex;
     justify-content: space-between;
-  }
-
-  .card_title.after{
-      position: absolute;
-      right: 0;
-      height: 100%;
-      width: 50px;
-      background: linear-gradient(90deg, transparent 0, #fff 100%);
-      content: "";
+    .favorite{
+      cursor: pointer;
+    }
   }
 }
