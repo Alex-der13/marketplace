@@ -7,7 +7,7 @@ export const getBooks = (categoryName) => async (dispatch) => {
     try {
         dispatch(fetchBooks());
         // const { data } = await getBooksApi(categoryName);
-        setTimeout(() => dispatch(fetchBooksSuccess(Data[categoryName])), 2000);
+        setTimeout(() => dispatch(fetchBooksSuccess(Data[categoryName] || [])), 2000);
     } catch (e) {
         dispatch(fetchBooksError());
     }
