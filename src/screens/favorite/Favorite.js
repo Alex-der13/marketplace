@@ -1,25 +1,26 @@
 import React from 'react';
-import './Favorite.css';
-import CardAll from '../../components/card';
+import CardShort from '../../components/cardShort';
+import useActions from '../../store/actions';
+import styles from './Favorite.module.scss';
 
-const Favorite = ({ favoriteList, addBasket, changeFavoriteList }) => {
+const Favorite = ({ favoriteList, changeFavoriteList }) => {
+    const { handleAddToBasket } = useActions();
     return (
         <div>
-            <div className="favorite">
-                <div className="favorite__list">
-                    {favoriteList.map((category) => {
-                        const isInFavorite = favoriteList.some((item) => item.ItemId === category.ItemId);
-                        return (
-                            <CardAll
-                                key={category.ItemId}
-                                category={category}
-                                isInFavorite={isInFavorite}
-                                changeFavoriteList={changeFavoriteList}
-                                addBasket={addBasket}
-                            />
-                        );
-                    })}
-                </div>
+            <span className={styles.title}>Избранное</span>
+            <div className={styles.content}>
+                {favoriteList.map((category) => {
+                    const isInFavorite = favoriteList.some((item) => item.ItemId === category.ItemId);
+                    return (
+                        <CardShort
+                            key={category.ItemId}
+                            category={category}
+                            isInFavorite={isInFavorite}
+                            changeFavoriteList={changeFavoriteList}
+                            handleAddToBasket={handleAddToBasket}
+                        />
+                    );
+                })}
             </div>
         </div>
     );

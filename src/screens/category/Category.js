@@ -1,50 +1,62 @@
-import React, { useEffect } from 'react';
-import { CircularProgress } from '@material-ui/core';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import CardAll from '../../components/card';
+import CardShort from '../../components/cardShort';
+import CardDeploy from '../../components/cardDeploy/CardDeploy';
+import Loading from '../../components/loading';
 import useActions from '../../store/actions';
 import { useSelector } from 'react-redux';
-import './Category.css';
+import styles from './Category.module.scss';
 
-const Category = ({ basketList, addBasket, changeFavoriteList, favorites }) => {
-
-    const {data, loading, error} = useSelector(({books})=>books)
+const Category = ({ changeFavoriteList, favorites }) => {
+    const { data, loading } = useSelector(({ books }) => books);
+    const basket = useSelector(({ basket }) => basket.list);
     const params = useParams();
-    const {getBooks} = useActions()
+    const { getBooks, handleAddToBasket } = useActions();
+    const [activeCard, setActiveCard] = useState({});
 
     useEffect(() => {
-        /* fetch(`http://localhost:3000/${params.name || 'arts'}`)
-            .then((response) => response.json())
-            .then((res) => setData(res)); */
-            getBooks()
-    }, [params]);
+        getBooks(params.name);
+    }, [params.name]);
 
+    useEffect(() => {
+        if (params.cardId) {
+            const foundCard = data.find((item) => item.ItemId === Number(params.cardId));
+            setActiveCard(foundCard);
+        }
+    }, [params.cardId, data]);
     if (loading) {
-        return <CircularProgress />;
+        return <Loading />;
     }
-
     return (
-        <div
-            style={{
-                margin: '0 auto',
-                width: '100%',
-                display: 'flex',
-                flexWrap: 'wrap',
-                justifyContent: 'space-between'
-            }}
-        >
-            {data.map((category) => {
-                const isInFavorite = favorites.some((item) => item.ItemId === category.ItemId);
-                return (
-                    <CardAll
-                        key={category.ItemId}
-                        isInFavorite={isInFavorite}
-                        category={category}
-                        addBasket={addBasket}
-                        changeFavoriteList={changeFavoriteList}
-                    />
-                );
-            })}
+        <div>
+            {params.cardId ? (
+                <CardDeploy
+                    product={activeCard}
+                    handleAddToBasket={handleAddToBasket}
+                    changeFavoriteList={changeFavoriteList}
+                    isInFavorite={favorites.some((item) => item.ItemId === activeCard.ItemId)}
+                    isInBasket={basket.some((item) => item.ItemId === activeCard.ItemId)}
+                />
+            ) : (
+                <div className={styles.category}>
+                    {data.map((category) => {
+                        const isInFavorite = favorites.some((item) => item.ItemId === category.ItemId);
+                        const isInBasket = basket.some((item) => item.ItemId === category.ItemId);
+                        const cardPath = `/category/${params.name}/${category.ItemId}`;
+                        return (
+                            <CardShort
+                                key={category.ItemId}
+                                isInFavorite={isInFavorite}
+                                isInBasket={isInBasket}
+                                category={category}
+                                cardPath={cardPath}
+                                handleAddToBasket={handleAddToBasket}
+                                changeFavoriteList={changeFavoriteList}
+                            />
+                        );
+                    })}
+                </div>
+            )}
         </div>
     );
 };

@@ -1,3 +1,4 @@
-import Books from './books'
+import Books from './books';
+import Basket from './basket';
 
-export {Books}
+export { Books, Basket };

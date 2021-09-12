@@ -1,0 +1,40 @@
+.CardDeploy{
+    margin: 70px 100px;
+    max-width: 100%;
+    display: flex;
+    img{
+        width: 300px;
+        height: 100%;
+        background-size: cover;
+    }
+    .info{
+        margin-left: 100px;
+        width: 800px;
+        .title_top{
+            font-size: 30px;
+            font-weight: bold;
+        }
+        .author{
+            font-size: 20px;
+            color: #9c9c9c;
+        }
+        .price{
+            margin-top: 100px;
+            font-size: 40px;
+            font-weight: bold;
+        }
+    }.buttons_block{
+        margin-top: 20px;
+        display: flex;
+    }.favorite{
+        margin-left: 20px;
+    }
+}.description{
+    margin-top: 50px;
+    .title_bottom{
+        font-weight: bold;
+    }
+    .text{
+        margin-top: 20px;
+    }
+}
