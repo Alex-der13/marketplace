@@ -9,7 +9,7 @@ export default createSlice({
             console.log(state);
         },
         deleteFromBasket(state, { payload }) {
-            state.list = state.list.filter((item) => item.ItemId !== payload.ItemId);
+            state.list = state.list.filter((item) => item.ItemId !== payload);
         },
     },
 });

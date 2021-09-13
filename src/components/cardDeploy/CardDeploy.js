@@ -4,7 +4,7 @@ import { Button } from '@material-ui/core';
 import Loading from '../loading';
 import styles from './CardDeploy.module.scss';
 
-const CardDeploy = ({ product, isInBasket, handleAddToBasket, changeFavoriteList, isInFavorite }) => {
+const CardDeploy = ({ product, isInBasket, handleAddToBasket, handleChangeFavorites, isInFavorite }) => {
     const handleAddToBasketWithParam = () => {
         handleAddToBasket(product);
     };
@@ -29,7 +29,7 @@ const CardDeploy = ({ product, isInBasket, handleAddToBasket, changeFavoriteList
                     >
                         {isInBasket ? 'В корзине' : 'Купить'}
                     </Button>
-                    <div className={styles.favorite} onClick={() => changeFavoriteList(product)}>
+                    <div className={styles.favorite} onClick={() => handleChangeFavorites(isInFavorite, product)}>
                         <Bookmark fontSize="large" color={isInFavorite ? 'primary' : 'disabled'} />
                     </div>
                 </div>

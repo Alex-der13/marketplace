@@ -1,0 +1,23 @@
+.home{
+    .block{
+        margin: 100px 0px 100px 0px ;
+    .image{
+        cursor: pointer;
+    }
+    .title{
+        font-size: 32px;
+        font-weight: 500;
+    }
+    .img_block{
+        margin-top: 45px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        img{
+            width: 400px;
+            height: 300px;
+            cursor: pointer;
+        }
+    }
+    }
+}

@@ -1,37 +1,26 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Header from './components/header';
-import { Basket, Favorite } from './screens';
+import { Basket, Favorite, Category, Home } from './screens';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Category from './screens/category/Category';
+import styles from './App.module.scss';
 
 const App = () => {
-    const [favoriteList, setFavoriteList] = useState([]);
-
-    const changeFavoriteList = (product) => {
-        const isProduct = favoriteList.some((item) => item.ItemId === product.ItemId);
-        if (isProduct) {
-            setFavoriteList(favoriteList.filter((item) => item.ItemId !== product.ItemId));
-        } else {
-            setFavoriteList([...favoriteList, product]);
-        }
-    };
-
     return (
-        <div style={{ maxWidth: '1278px', margin: '0 auto' }}>
+        <div className={styles.App}>
             <Router>
-                <Header favoriteCounter={favoriteList.length} />
+                <Header />
                 <Switch>
                     <Route path="/" exact>
-                        <Category favorites={favoriteList} changeFavoriteList={changeFavoriteList} />
+                        <Home />
                     </Route>
                     <Route path="/basket">
                         <Basket />
                     </Route>
                     <Route path="/favorite">
-                        <Favorite favoriteList={favoriteList} changeFavoriteList={changeFavoriteList} />
+                        <Favorite />
                     </Route>
                     <Route path="/category/:name/:cardId?">
-                        <Category favorites={favoriteList} changeFavoriteList={changeFavoriteList} />
+                        <Category />
                     </Route>
                 </Switch>
             </Router>
