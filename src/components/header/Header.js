@@ -10,8 +10,9 @@ import PersonIcon from '@material-ui/icons/Person';
 import Routes from '../../routes';
 import styles from './Header.module.scss';
 
-const Header = ({ favoriteCounter }) => {
+const Header = () => {
     const basketCounter = useSelector(({ basket }) => basket.list.length);
+    const favoriteCounter = useSelector(({ favorite }) => favorite.list.length);
     const history = useHistory();
     const categories = Routes.find((route) => route.name === 'Categories').subRoutes;
     const location = useLocation();

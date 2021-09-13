@@ -4,17 +4,17 @@ import { Button } from '@material-ui/core';
 import { useHistory } from 'react-router-dom';
 import styles from './CardShort.module.scss';
 
-const CardShort = ({ cardPath, isInBasket, handleAddToBasket, changeFavoriteList, category, isInFavorite }) => {
+const CardShort = ({ cardPath, isInBasket, handleAddToBasket, handleChangeFavorites, product, isInFavorite }) => {
     const {
         Name,
         Params: { Author },
         Price,
         PictureUrl,
-    } = category;
+    } = product;
     const history = useHistory();
 
     const handleAddToBasketWithParam = () => {
-        handleAddToBasket(category);
+        handleAddToBasket(product);
     };
     const handleOpenCard = () => {
         history.push(cardPath);
@@ -34,7 +34,7 @@ const CardShort = ({ cardPath, isInBasket, handleAddToBasket, changeFavoriteList
                 <Button disabled={isInBasket} variant="contained" color="primary" onClick={handleAddToBasketWithParam}>
                     {isInBasket ? 'В корзине' : 'Купить'}
                 </Button>
-                <div className={styles.favorite} onClick={() => changeFavoriteList(category)}>
+                <div className={styles.favorite} onClick={() => handleChangeFavorites(isInFavorite, product)}>
                     <Bookmark color={isInFavorite ? 'primary' : 'disabled'} />
                 </div>
             </div>

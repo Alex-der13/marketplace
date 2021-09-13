@@ -1,22 +1,29 @@
 import React from 'react';
 import CardShort from '../../components/cardShort';
+import { useSelector } from 'react-redux';
 import useActions from '../../store/actions';
 import styles from './Favorite.module.scss';
 
-const Favorite = ({ favoriteList, changeFavoriteList }) => {
-    const { handleAddToBasket } = useActions();
+const Favorite = () => {
+    const favorite = useSelector(({ favorite }) => favorite.list);
+    const { handleAddToBasket, handleDeleteFromFavorites, handleAddToFavorites } = useActions();
+
+    const handleChangeFavorites = (flag, product) => {
+        if (flag) handleDeleteFromFavorites(product);
+        else handleAddToFavorites(product);
+    };
+
     return (
         <div>
             <span className={styles.title}>Избранное</span>
             <div className={styles.content}>
-                {favoriteList.map((category) => {
-                    const isInFavorite = favoriteList.some((item) => item.ItemId === category.ItemId);
+                {favorite.map((product) => {
                     return (
                         <CardShort
-                            key={category.ItemId}
-                            category={category}
-                            isInFavorite={isInFavorite}
-                            changeFavoriteList={changeFavoriteList}
+                            key={product.ItemId}
+                            product={product}
+                            isInFavorite
+                            handleChangeFavorites={handleChangeFavorites}
                             handleAddToBasket={handleAddToBasket}
                         />
                     );

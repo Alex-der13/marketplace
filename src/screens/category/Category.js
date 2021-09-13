@@ -7,12 +7,18 @@ import useActions from '../../store/actions';
 import { useSelector } from 'react-redux';
 import styles from './Category.module.scss';
 
-const Category = ({ changeFavoriteList, favorites }) => {
+const Category = () => {
     const { data, loading } = useSelector(({ books }) => books);
     const basket = useSelector(({ basket }) => basket.list);
+    const favorite = useSelector(({ favorite }) => favorite.list);
     const params = useParams();
-    const { getBooks, handleAddToBasket } = useActions();
+    const { getBooks, handleAddToBasket, handleAddToFavorites, handleDeleteFromFavorites } = useActions();
     const [activeCard, setActiveCard] = useState({});
+
+    const handleChangeFavorites = (flag, product) => {
+        if (flag) handleDeleteFromFavorites(product);
+        else handleAddToFavorites(product);
+    };
 
     useEffect(() => {
         getBooks(params.name);
@@ -32,26 +38,28 @@ const Category = ({ changeFavoriteList, favorites }) => {
             {params.cardId ? (
                 <CardDeploy
                     product={activeCard}
+                    favorite={favorite}
                     handleAddToBasket={handleAddToBasket}
-                    changeFavoriteList={changeFavoriteList}
-                    isInFavorite={favorites.some((item) => item.ItemId === activeCard.ItemId)}
+                    handleChangeFavorites={handleChangeFavorites}
+                    isInFavorite={favorite.some((item) => item.ItemId === activeCard.ItemId)}
                     isInBasket={basket.some((item) => item.ItemId === activeCard.ItemId)}
                 />
             ) : (
                 <div className={styles.category}>
-                    {data.map((category) => {
-                        const isInFavorite = favorites.some((item) => item.ItemId === category.ItemId);
-                        const isInBasket = basket.some((item) => item.ItemId === category.ItemId);
-                        const cardPath = `/category/${params.name}/${category.ItemId}`;
+                    {data.map((product) => {
+                        const isInFavorite = favorite.some((item) => item.ItemId === product.ItemId);
+                        const isInBasket = basket.some((item) => item.ItemId === product.ItemId);
+                        const cardPath = `/category/${params.name}/${product.ItemId}`;
                         return (
                             <CardShort
-                                key={category.ItemId}
+                                key={product.ItemId}
                                 isInFavorite={isInFavorite}
                                 isInBasket={isInBasket}
-                                category={category}
+                                product={product}
                                 cardPath={cardPath}
+                                favorite={favorite}
                                 handleAddToBasket={handleAddToBasket}
-                                changeFavoriteList={changeFavoriteList}
+                                handleChangeFavorites={handleChangeFavorites}
                             />
                         );
                     })}

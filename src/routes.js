@@ -1,7 +1,7 @@
 const Routes = [
     {
         name: 'HomePage',
-        path: '/category/arts',
+        path: '/',
     },
     {
         name: 'Profile',
@@ -41,7 +41,7 @@ const Routes = [
             },
             {
                 name: 'Scientific literature',
-                rusName: 'Научная литератора',
+                rusName: 'Научная литература',
                 path: '/category/scientific',
             },
         ],
