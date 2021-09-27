@@ -1,23 +1,91 @@
-.home{
-    .block{
-        margin: 100px 0px 100px 0px ;
-    .image{
-        cursor: pointer;
-    }
-    .title{
-        font-size: 32px;
-        font-weight: 500;
-    }
-    .img_block{
-        margin-top: 45px;
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
-        img{
-            width: 400px;
-            height: 300px;
-            cursor: pointer;
+@media (min-width: 851px) {
+    .home{
+        .block{
+                margin: 100px 0px 100px 0px ;
+                .image{
+                    cursor: pointer;
+                }
+                .title{
+                    font-size: 32px;
+                    font-weight: 500;
+                }
+                .img_block{
+                    margin-top: 45px;
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    img{
+                        width: 400px;
+                        height: 300px;
+                        cursor: pointer;
+                    }
+                }
+        }
+        .block_media{
+            display: none;
+        }
+        .block_media_tablet{
+            display: none;
         }
     }
+}
+@media (min-width: 671px) and (max-width: 850px){
+    .home{
+        .block_media_tablet{
+                .title{
+                    margin-top: 20px;
+                    font-size: 25px;
+                    font-weight: 500;
+                    text-align: center;
+                }
+                .img_block{
+                    margin-top: 45px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    img{
+                        width: 210px;
+                        padding: 5px;
+                    }
+                }
+        }
+        .block{
+            display: none;
+        }
+        .block_media_mobile{
+            display: none;
+        }
+    }
+}
+@media (max-width: 670px) {
+    .home{
+        .block_media_mobile{
+            .title{
+                margin-top: 30px;
+                font-size: 25px;
+                font-weight: 500;
+                text-align: center;
+            }
+            .content{
+                margin-left: 30px;
+                
+            }
+            .img_block{
+                margin-top: 45px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                img{
+                    padding: 5px;
+                    width: 300px;
+                }
+            }
+        }
+        .block{
+            display: none;
+        }
+        .block_media_tablet{
+            display: none;
+        }
     }
 }

@@ -56,7 +56,7 @@ const Home = () => {
         );
     };
 
-    const settings = {
+    const settingsSlider = {
         infinite: true,
         speed: 500,
         slidesToShow: 1,
@@ -64,7 +64,15 @@ const Home = () => {
         nextArrow: <SampleNextArrow />,
         prevArrow: <SamplePrevArrow />,
     };
-    const settings2 = {
+
+    const settingsSliderMediaMobileTablet = {
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+    };
+
+    const settingsNew = {
         infinite: true,
         speed: 500,
         slidesToShow: 5,
@@ -73,43 +81,139 @@ const Home = () => {
         prevArrow: <SamplePrevArrow />,
     };
 
+    const settingsNewMediaTablet = {
+        infinite: true,
+        speed: 500,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+    };
+
+    const settingsNewMediaMobile = {
+        infinite: true,
+        speed: 500,
+        slidesToShow: 2,
+        slidesToScroll: 1,
+    };
+
     return (
         <div className={styles.home}>
             <div className={styles.block}>
-                <Slider {...settings}>
-                    <img className={styles.image} src="https://www.bookvoed.ru/files/6389/22/79.png" />
-                    <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/32.png" />
-                    <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/30.png" />
-                </Slider>
+                <div className={styles.slider}>
+                    <Slider {...settingsSlider}>
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/22/79.png" />
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/32.png" />
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/30.png" />
+                    </Slider>
+                </div>
+                <div className={styles.new}>
+                    <div className={styles.title}>Новинки</div>
+                    <Slider {...settingsNew}>
+                        {books.map((product) => {
+                            const isInFavorite = favorite.some((item) => item.ItemId === product.ItemId);
+                            const isInBasket = basket.some((item) => item.ItemId === product.ItemId);
+                            const cardPath = `/category/children/${product.ItemId}`;
+                            return (
+                                <CardShort
+                                    key={product.ItemId}
+                                    isInFavorite={isInFavorite}
+                                    isInBasket={isInBasket}
+                                    product={product}
+                                    cardPath={cardPath}
+                                    favorite={favorite}
+                                    handleAddToBasket={handleAddToBasket}
+                                    handleChangeFavorites={handleChangeFavorites}
+                                />
+                            );
+                        })}
+                    </Slider>
+                </div>
+                <div className={styles.promo}>
+                    <div className={styles.title}>Акции</div>
+                    <div className={styles.img_block}>
+                        <img src="https://www.bookvoed.ru/files/1790/18/78.png" />
+                        <img src="https://www.bookvoed.ru/files/1790/18/81.png" />
+                        <img src="https://www.bookvoed.ru/files/1790/18/64.png" />
+                    </div>
+                </div>
             </div>
-            <div className={styles.block}>
-                <div className={styles.title}>Новинки</div>
-                <Slider {...settings2}>
-                    {books.map((product) => {
-                        const isInFavorite = favorite.some((item) => item.ItemId === product.ItemId);
-                        const isInBasket = basket.some((item) => item.ItemId === product.ItemId);
-                        const cardPath = `/category/children/${product.ItemId}`;
-                        return (
-                            <CardShort
-                                key={product.ItemId}
-                                isInFavorite={isInFavorite}
-                                isInBasket={isInBasket}
-                                product={product}
-                                cardPath={cardPath}
-                                favorite={favorite}
-                                handleAddToBasket={handleAddToBasket}
-                                handleChangeFavorites={handleChangeFavorites}
-                            />
-                        );
-                    })}
-                </Slider>
+            <div className={styles.block_media_tablet}>
+                <div className={styles.slider_media_tablet}>
+                    <Slider {...settingsSliderMediaMobileTablet}>
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/22/79.png" />
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/32.png" />
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/30.png" />
+                    </Slider>
+                </div>
+                <div className={styles.new_media_tablet}>
+                    <div className={styles.title}>Новинки</div>
+                    <Slider {...settingsNewMediaTablet}>
+                        {books.map((product) => {
+                            const isInFavorite = favorite.some((item) => item.ItemId === product.ItemId);
+                            const isInBasket = basket.some((item) => item.ItemId === product.ItemId);
+                            const cardPath = `/category/children/${product.ItemId}`;
+                            return (
+                                <CardShort
+                                    key={product.ItemId}
+                                    isInFavorite={isInFavorite}
+                                    isInBasket={isInBasket}
+                                    product={product}
+                                    cardPath={cardPath}
+                                    favorite={favorite}
+                                    handleAddToBasket={handleAddToBasket}
+                                    handleChangeFavorites={handleChangeFavorites}
+                                />
+                            );
+                        })}
+                    </Slider>
+                </div>
+                <div className={styles.promo_media_tablet}>
+                    <div className={styles.title}>Акции</div>
+                    <div className={styles.img_block}>
+                        <img src="https://www.bookvoed.ru/files/1790/18/78.png" />
+                        <img src="https://www.bookvoed.ru/files/1790/18/81.png" />
+                        <img src="https://www.bookvoed.ru/files/1790/18/64.png" />
+                    </div>
+                </div>
             </div>
-            <div className={styles.block}>
-                <div className={styles.title}>Акции</div>
-                <div className={styles.img_block}>
-                    <img src="https://www.bookvoed.ru/files/1790/18/78.png" />
-                    <img src="https://www.bookvoed.ru/files/1790/18/81.png" />
-                    <img src="https://www.bookvoed.ru/files/1790/18/64.png" />
+            <div className={styles.block_media_mobile}>
+                <div className={styles.slider_media_mobile}>
+                    <Slider {...settingsSliderMediaMobileTablet}>
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/22/79.png" />
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/32.png" />
+                        <img className={styles.image} src="https://www.bookvoed.ru/files/6389/23/30.png" />
+                    </Slider>
+                </div>
+                <div className={styles.new_media_mobile}>
+                    <div className={styles.title}>Новинки</div>
+                    <Slider {...settingsNewMediaMobile}>
+                        {books.map((product) => {
+                            const isInFavorite = favorite.some((item) => item.ItemId === product.ItemId);
+                            const isInBasket = basket.some((item) => item.ItemId === product.ItemId);
+                            const cardPath = `/category/children/${product.ItemId}`;
+                            return (
+                                <div className={styles.content} key={product.ItemId}>
+                                    <CardShort
+                                        key={product.ItemId}
+                                        isInFavorite={isInFavorite}
+                                        isInBasket={isInBasket}
+                                        product={product}
+                                        cardPath={cardPath}
+                                        favorite={favorite}
+                                        handleAddToBasket={handleAddToBasket}
+                                        handleChangeFavorites={handleChangeFavorites}
+                                    />
+                                </div>
+                            );
+                        })}
+                    </Slider>
+                </div>
+                <div className={styles.promo_media_mobile}>
+                    <div className={styles.title}>Акции</div>
+                    <div className={styles.img_block}>
+                        <img src="https://www.bookvoed.ru/files/1790/18/78.png" />
+                        <img src="https://www.bookvoed.ru/files/1790/18/81.png" />
+                        <img src="https://www.bookvoed.ru/files/1790/18/64.png" />
+                    </div>
                 </div>
             </div>
         </div>
