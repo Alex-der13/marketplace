@@ -1,7 +1,7 @@
 const Routes = [
     {
         name: 'HomePage',
-        path: '/',
+        path: '/marketplace',
     },
     {
         name: 'Profile',
