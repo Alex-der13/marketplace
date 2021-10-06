@@ -1,43 +1,86 @@
 .Card {
-  margin: 50px 10px 10px;
-  max-width: 140px;
-  height: 360px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-
-  .img_block {
-    margin-bottom: 10px;
-    width: 130px;
-    height: 200px;
+    margin: 50px 10px 10px;
+    max-width: 140px;
+    height: 360px;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-
-    img {
-      width: 150px;
-      height: 100%;
-      margin: 0 auto;
-      cursor: pointer;
-      background-size: cover;
-    }
-  }
-
-  .card_title {
-    height: 45px;
-    overflow: hidden;
-    cursor: pointer;
-  }
-
-  .card_author{
-    color: #9c9c9c;
-  }
-
-  .buttons_block {
-    display: flex;
     justify-content: space-between;
-    .favorite{
-      cursor: pointer;
+
+    .img_block {
+        margin-bottom: 10px;
+        width: 130px;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+
+        img {
+            width: 150px;
+            height: 100%;
+            margin: 0 auto;
+            cursor: pointer;
+            background-size: cover;
+        }
     }
-  }
+
+    .card_title {
+        height: 45px;
+        overflow: hidden;
+        cursor: pointer;
+    }
+
+    .card_author {
+        color: #9c9c9c;
+    }
+
+    .buttons_block {
+        display: flex;
+        justify-content: space-between;
+        .favorite {
+            cursor: pointer;
+        }
+    }
+}
+
+@media (max-width: 850px) {
+    .Card {
+        max-width: 100px;
+        max-height: 320px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .img_block {
+            img {
+                max-width: 100px;
+                max-height: 130px;
+                margin: 0 auto;
+                background-size: cover;
+            }
+        }
+
+        .card_title {
+            height: 100%;
+            overflow: hidden;
+            font-size: small;
+        }
+
+        .card_author {
+            height: 50px;
+            color: #9c9c9c;
+            font-size: small;
+            display: flex;
+            align-items: center;
+        }
+
+        .buttons_block {
+            margin-top: 10px;
+            display: flex;
+            justify-content: space-between;
+            button {
+                width: 100%;
+                font-size: 10px;
+                white-space: nowrap;
+            }
+        }
+    }
 }

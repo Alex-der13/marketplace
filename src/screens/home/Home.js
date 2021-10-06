@@ -84,16 +84,16 @@ const Home = () => {
     const settingsNewMediaTablet = {
         infinite: true,
         speed: 500,
-        slidesToShow: 4,
+        slidesToShow: 3,
         slidesToScroll: 1,
     };
 
-    const settingsNewMediaMobile = {
-        infinite: true,
-        speed: 500,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-    };
+    // const settingsNewMediaMobile = {
+    //     infinite: true,
+    //     speed: 500,
+    //     slidesToShow: 3,
+    //     slidesToScroll: 1,
+    // };
 
     return (
         <div className={styles.home}>
@@ -175,7 +175,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <div className={styles.block_media_mobile}>
+            {/* <div className={styles.block_media_mobile}>
                 <div className={styles.slider_media_mobile}>
                     <Slider {...settingsSliderMediaMobileTablet}>
                         <img className={styles.image} src="https://www.bookvoed.ru/files/6389/22/79.png" />
@@ -215,7 +215,7 @@ const Home = () => {
                         <img src="https://www.bookvoed.ru/files/1790/18/64.png" />
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     );
 };
