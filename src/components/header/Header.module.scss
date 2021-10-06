@@ -1,147 +1,50 @@
-@media (min-width: 851px) {
-    .header{
-        .desktop{
-            .top{
-                margin: 24px auto;
-                width: 100%;
-                display: flex;
-                justify-content: space-between;
-                .content__logo{
-                    width: 300px;
-                    height: 70px;
-                    background-image: url(../../assets/img/logo.png);
-                    background-size: 300px;
-                    background-repeat: no-repeat;
-                    cursor: pointer;
-                }
-            }
-
-            .bottom {
-                margin: 0 auto;
-                width: 100%;
-                padding-bottom: 5px;
-                border-bottom: 2px solid lightgrey;
-                display: flex;
-                justify-content: space-between;
-                a {
-                    text-decoration: none;
-                    color: #000;
-                }
-            }
-        }
-        .tablet{
-            display: none;
-        }
-        .mobile{
-            display: none;
-        }
-    }
-}
-
-@media (min-width: 671px) and (max-width: 850px) {
-    .header{
-        .tablet{
-            .top_media{
-                margin: 24px auto;
-                width: 100%;
-                display: flex;
-                justify-content: space-between;
-                .content__logo{
-                    width: 250px;
-                    background-image: url(../../assets/img/logo.png);
-                    background-size: 250px;
-                    background-repeat: no-repeat;
-                }
-            }
-        }
-        .desktop{
-            display: none;
-        }
-        .mobile{
-            display: none;
-        }
-    }
-}
-
-@media (max-width: 670px) {
-    .header{
-        .mobile{
-            .top{
-                margin: 15px auto;
-                height: 35px;
-                display: flex;
-                justify-content: space-between;
-                .content__logo{
-                    width: 150px;
-                    height: 70px;
-                    background-image: url(../../assets/img/logo.png);
-                    background-size: 150px;
-                    background-repeat: no-repeat;
-                    cursor: pointer;
-                }
-            }
-        }
-        .desktop{
-            display: none;
-        }
-        .tablet{
-            display: none;
-        }
-    }
-}
-
-@media (min-width: 671px) {
-    .btns{
+.top {
+    margin: 24px auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    .logo_block {
+        width: 100%;
         display: flex;
-    }
-    .btns_media{
-        display: none;
+        justify-content: space-between;
+        align-items: center;
+        .content__logo {
+            width: 200px;
+            height: 35px;
+            background-image: url(../../assets/img/logo.png);
+            background-size: cover;
+            cursor: pointer;
+        }
+        .burger_media {
+            display: none;
+        }
     }
 }
 
-@media (min-width: 671px) {
-    .rusName_media{
-        display: none;
-    }
-}
-
-@media (max-width: 670px) {
-    .header{
-        .top{
-            .content__logo{
-                width: 170px;
-                height: 70px;
-                background-image: url(../../assets/img/logo.png);
-                background-size: 170px;
-                background-repeat: no-repeat;
-                cursor: pointer;
-            }
-            .btns{
+@media (max-width: 850px) {
+    .top {
+        .logo_block {
+            .btns {
                 display: none;
             }
-            .btns_media{
-                width: 100px;
-            }
-            .menu_counter{
-                margin-left: 5px;
-                width: 20px;
-                height: 20px;
-                border-radius: 20px;
-                background-color: red;
-                color: white;
-                display: flex;
-                justify-content: center;
-                align-items: center;
+            .burger_media {
+                display: block;
             }
         }
-        .bottom{
-            display: none;
-            .menu_item{
-                a {
-                    text-decoration: none;
-                    color: #000;
-                }
-            }
+    }
+    .user_menu {
+        border-bottom: 1px solid black;
+        display: flex;
+        flex-direction: column;
+        .element {
+            padding: 6px 16px;
+            font-size: large;
         }
+    }
+    .bottom {
+        display: none;
+    }
+    a {
+        text-decoration: none;
     }
 }

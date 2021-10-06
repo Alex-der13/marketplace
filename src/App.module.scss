@@ -1,4 +1,19 @@
 .App{
-    max-width: 1278px;
+    max-width: 2440px;
     margin: 0 auto;
+    padding: 24px;
+}
+
+@media (max-width: 850px) {
+    .App{
+        max-width: 850px;
+        padding: 12px;
+    }
+}
+
+@media (max-width: 670px) {
+    .App{
+        max-width: 670px;
+        padding: 8px;
+    }
 }
