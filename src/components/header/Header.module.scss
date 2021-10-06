@@ -21,6 +21,14 @@
     }
 }
 
+.bottom {
+    a {
+        text-decoration: none;
+    }
+    display: flex;
+    justify-content: space-between;
+}
+
 @media (max-width: 850px) {
     .top {
         .logo_block {
